@@ -3,7 +3,13 @@
   <channel>
     <title>Dubliners</title>
     <link>http://example.com/</link>
-    <description>Dubliners by Joyce</description>
+    <description>Dubliners by Joyce</description>   
+    <item>
+       <title>Nonsense 1: Napoleon</title>
+       <link>https://www.gutenberg.org/cache/epub/66792/pg66792-images.html#NAPOLEON_BONAPARTE</link>
+       <description>[Emperor of France, born in Corsica 1769, died a prisoner on the island of St. Helena in 1821. Educated at the military schools of Brienne and Paris, Napoleon became a sous-lieutenant of artillery at the age of sixteen. He had become a captain when the revolution reached its height in the Reign of Terror. Though never an actor in the horrors of Jacobin rule, he was supposed to have been a warm friend of Robespierre. After the fall of the terrorists Napoleon took the side of the convention, and at the head of its troops dispersed the infuriated mob of Montagnards with the famous “whiff of grapeshot” which blew up the last remains of the party of 1793. After his marriage with Josephine Beauharnais, the young soldier was appointed to the command of the army of Italy. In two years Napoleon, in a series of splendid battles, annihilated four Austrian armies, liberated Italy, and forced Austria to a humiliating peace. After the failure of the Egyptian expedition Napoleon returned to France, and by the coup d’état of December, 1799, attained supreme power as first consul. The second Italian campaign of 1800 was no less brilliant than the first, culminating in the battle of Marengo. In 1802 Napoleon was made life-consul, “the swelling prologue of the imperial theme,” for nine months later he assumed the title of emperor, and was crowned by Pope Pius VII at Notre Dame. The year 1812 was the beginning of the disasters which finally dethroned him. The terrible Russian campaign, and the utter defeat of his arms in Spain by Lord Wellesley, afterward Duke of Wellington, marked a change in the clock of destiny. The great European coalition of 1813 brought overwhelming forces against him, resulting in the great battle of Dresden, lasting three days—October 16th, 17th, and 18th—which broke the French power. The allies entered Paris, March 31, 1814, and Napoleon abdicated on April 11th. His exile in Elba lasted less than ten months, and on his return to France two hundred thousand men rallied to him at his call. The battle of Waterloo, fought on June 15, 1815, ended in his overwhelming defeat at the hands of the Duke of Wellington, assisted by Marshal Blücher. Napoleon’s second abdication was followed by his surrender to the English, and his exile to St. Helena for the rest of his life.]</description>
+    </item>
+     
     <item>
        <title>Story 1/15: The Sisters</title>
        <link>https://www.gutenberg.org/files/2814/2814-h/2814-h.htm#chap01</link>
@@ -162,6 +168,35 @@ Eliza resumed:
 “Wide-awake and laughing-like to himself.... So then, of course, when they saw that, that made them think that there was something gone wrong with him....”      
       </description>
     </item>
+    
+    <item>
+       <title>Nonsense 2: Trajan</title>
+       <link>https://www.gutenberg.org/cache/epub/66792/pg66792-images.html#TRAJAN</link>
+       <description>
+      [M. Ulpius Trajanus, successor as Roman emperor to Nerva, born A.D. 53, ascended the throne 99; died 118. One of the most illustrious among those who wore the Roman purple, his reign was distinguished as much by happiness and prosperity as by lofty virtues. As a soldier, Trajan subdued the Dacians, completed the conquest of Germany and Sarmatia, annexed Armenia to the empire, and subdued the Parthians to the Roman yoke. His civic administration was no less notable than his military conquests and organization.]
+
+The princely prodigality of Trajan’s taste was defrayed by the plunder or the tribute of conquered enemies, and seems to have laid at least no extraordinary burden on his subjects. His rage for building had the further merit of being directed for the most part to works of public utility and interest. He built for the gods, the senate, and the people, and not for himself; he restored the palaces, en{54}larged the halls and places of public resort; but he was content himself with the palaces of his predecessors. A writer three centuries later declares of Trajan that he built the world over; and the wide diffusion and long continuance of his fame beyond that of so many others of the imperial series may be partly attributed to the constant recurrence of his name conspicuously inscribed on the most solid and best known monuments of the empire.
+
+The care of this wise and liberal ruler extended from the harbors, aqueducts, and bridges to the general repair of the highways of the empire. He was the great improver, though not the inventor of the system of posts on the chief roads, which formed a striking feature of Roman civilization as an instrument for combining the remotest provinces under a central organization.
+
+The legislation of this popular emperor is marked generally by a special consideration for Italian interests. The measures by which he secured a constant supply of grain from the provinces, exempting its exportation from all duties, and stimulating the growers at one extremity of the empire to relieve the deficiencies of another, were directed to the maintenance of abundance in Rome and Italy. Thus, on the casual failure of the harvest in Egypt, her empty granaries were at once replenished from the superfluous stores of Gaul, Spain, or Africa.
+
+Though Trajan’s mind did not rise to wide and liberal views for the advantages of the provinces, he neglected no favorable opportunity for the benefit of particular localities. His hand was open to bestow endowments and largesses, to relieve public calamities, to increase public enjoyments, to repair the ravages of earthquakes and tempests, to construct roads and canals, theatres and aqueducts. The activity displayed through the empire in works of this unproductive nature shows a great command of money, an abundant currency, easy means of transacting business, ample resources of labor, and well devised schemes of combining and unfold{55}ing them. Judicious economy went ever hand in hand with genuine magnificence.
+
+The monuments of Roman jurisprudence contain many examples of Trajan’s legislation. Like the great statesmen of the republic, he returned from the camp to the city to take his seat daily on the tribunals with the ablest judges for his assessors. He heard appeals from the highest courts throughout his dominion, and the final sentence he pronounced assumed the validity of a legal enactment. The clemency of Trajan was as conspicuous as his love of justice, and to him is ascribed the noble sentiment, that it is better that the guilty should escape than the innocent suffer.
+
+The justice, the modesty, the unwearied application of Trajan were deservedly celebrated, no less than his valor in war and his conduct in political affairs. But a great part of his amazing popularity was owing, no doubt, to his genial demeanor and to the affection inspired by his qualities as a friend and associate. The remains still existing of his correspondence in the letters of Pliny bring out not only the manners of the time, but in some degree the character of the prince also; and bear ample testimony to his minute vigilance and unwearied application, his anxiety for his subjects’ well-being, the ease with which he conducted his intercourse with his friends, and the ease with which he inspired them in return.
+
+Trajan’s letters bespeak the polished gentleman no less than the statesman. He was fond of society, and of educated and literary society. He was proud of being known to associate with the learned, and felt himself complimented when he bestowed on the rhetorician Dion the compliment of carrying him in his own chariot. That such refinement of taste was not incompatible with excess in the indulgences of the table was the fault of the times, and more particularly of the habits of camp life to which he had been accustomed. Intemperance was always a Roman vice.
+
+The affability of the prince, and the freedom with which{56} he exchanged with his nobles all the offices of ordinary courtesy and hospitality, bathing, supping, or hunting as an equal in their company, constituted one of his greatest charms in the eyes of a jealous patriciate which had seen its masters too often engrossed by the flatteries of freedmen and still viler associates.
+
+But Trajan enjoyed also the distinction dear in Roman eyes of a fine figure and a noble countenance. In stature he exceeded the common height, and on public occasions, when he loved to walk bareheaded in the midst of the senators, his gray hairs gleamed conspicuously above the crowd. His features, as we may trace them unmistakably on his innumerable busts and medals, were regular; and his face was the last of the imperial series that retained the true Roman type—not in the aquiline nose only, but in the broad and low forehead, the angular chin, the firm, compressed lips, and generally in the stern compactness of its structure.
+
+The thick and straight-cut hair, smoothed over the brow without a curl or parting, marks the simplicity of the man’s character in a voluptuous age which delighted in the culture of flowing or frizzed locks. But the most interesting characteristic of the figure I have so vividly before me is the look of painful thought, which seems to indicate a constant sense of overwhelming responsibilities, honorably and bravely borne, yet, notwithstanding much assumed cheerfulness and self-abandonment, ever irritating the nerves and weighing upon the conscience.   
+      </description>
+    </item>
+
     <item>
        <title>Chapter 2</title>
        <link>https://www.gutenberg.org/cache/epub/66792/pg66792-images.html</link>
