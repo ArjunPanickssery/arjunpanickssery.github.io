@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Dubliners</title>
+    <link>http://example.com/</link>
+    <description>Dubliners by Joyce</description>
+    <item>
+       <title>Chapter 1</title>
+       <link>https://www.gutenberg.org/cache/epub/6775/pg6775-images.html</link>
+       <description>In which the events of the first chapter take place</description>
+    </item>
+    <item>
+       <title>Chapter 2</title>
+       <link>https://www.gutenberg.org/cache/epub/66792/pg66792-images.html</link>
+       <description>In which the events of the second chapter take place</description>
+    </item>
+  </channel>
+</rss>
