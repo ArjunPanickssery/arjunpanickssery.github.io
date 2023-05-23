@@ -1,179 +1,179 @@
 # Part 1: Our Thinking
 ## Near and Far
-1. [Abstract/Distant Future Bias](#Abstract/Distant-Future-Bias)
-2. [Abstractly Ideal, Concretely Selfish](#Abstractly-Ideal,-Concretely-Selfish)
-3. [We Add Near, Average Far](#We-Add-Near,-Average-Far)
-4. [Why We Don’t Know What We Want](#Why-We-Don’t-Know-What-We-Want)
-5. [We See the Sacred from Afar, to See It Together](#We-See-the-Sacred-from-Afar,-to-See-It-Together)
-6. [The Future Seems Shiny](#The-Future-Seems-Shiny)
-7. [Doubting My Far Mind](#Doubting-My-Far-Mind)
+1. [Abstract/Distant Future Bias](#abstractdistant)
+2. [Abstractly Ideal, Concretely Selfish](#abstractly-ideal-concretely-selfish)
+3. [We Add Near, Average Far](#we-add-near-average-far)
+4. [Why We Don’t Know What We Want](#why-we-dont-know-what-we-want)
+5. [We See the Sacred from Afar, to See It Together](#sacredness-as-unity-induced-abstraction)
+6. [The Future Seems Shiny](#the-future-seems-shiny)
+7. [Doubting My Far Mind](#doubting-my-far-mind)
 
 ## Disagreement
-8. [Beware the Inside View](#Beware-the-Inside-View)
-9. [Are Meta Views Outside Views?](#Are-Meta-Views-Outside-Views?)
-10. [Disagreement Is Near-Far Bias](#Disagreement-Is-Near-Far-Bias)
-11. [Others’ Views Are Detail](#Others’-Views-Are-Detail)
-12. [Why Be Contrarian?](#Why-Be-Contrarian?)
-13. [On Disagreement, Again](#On-Disagreement,-Again)
-14. [Rationality Requires Common Priors](#Rationality-Requires-Common-Priors)
-15. [Might Disagreement Fade Like Violence?](#Might-Disagreement-Fade-Like-Violence?)
+8. [Beware the Inside View](#beware-the-insi)
+9. [Are Meta Views Outside Views?](#are-meta-views)
+10. [Disagreement Is Near-Far Bias](#disagreement-is-nearfar-bias)
+11. [Others’ Views Are Detail](#others-views-are-detail)
+12. [Why Be Contrarian?](#why-be-contrarian)
+13. [On Disagreement, Again](#on-disagreement-again)
+14. [Rationality Requires Common Priors](#rationality-requires-common-priors)
+15. [Might Disagreement Fade Like Violence?](#disagreementfade)
 
 ## Biases
-16. [Reject Random Beliefs](#Reject-Random-Beliefs)
-17. [Chase Your Reading](#Chase-Your-Reading)
-18. [Against Free Thinkers](#Against-Free-Thinkers)
-19. [Eventual Futures](#Eventual-Futures)
-20. [Seen vs. Unseen Biases](#Seen-vs.-Unseen-Biases)
-21. [Law as No-Bias Theatre](#Law-as-No-Bias-Theatre)
-22. [Benefit of Doubt = Bias](#Benefit-of-Doubt-=-Bias)
+16. [Reject Random Beliefs](#reject-random-b)
+17. [Chase Your Reading](#chase-your-reading)
+18. [Against Free Thinkers](#against_free_th)
+19. [Eventual Futures](#eventual-futures)
+20. [Seen vs. Unseen Biases](#seen_vs_unseen_)
+21. [Law as No-Bias Theatre](#law_as_nobias_t)
+22. [Benefit of Doubt = Bias](#benefit_of_doub)
 
 # Part 2: Our Motives
 ## Signaling
-23. [Decision Theory Remains Neglected](#Decision-Theory-Remains-Neglected)
-24. [What Function Music?](#What-Function-Music?)
-25. [Politics isn’t about Policy](#Politics-isn’t-about-Policy)
-26. [Views Aren’t About Sights](#Views-Aren’t-About-Sights)
-27. [Why Do Bets Look Bad?](#Why-Do-Bets-Look-Bad?)
-28. [Homo Hypocritus](#Homo-Hypocritus)
-29. [Resolving Your Hypocrisy](#Resolving-Your-Hypocrisy)
-30. [Errors, Lies, and Self-Deception](#Errors,-Lies,-and-Self-Deception)
+23. [Decision Theory Remains Neglected](#decision-theory-remains-neglected)
+24. [What Function Music?](#29816)
+25. [Politics isn’t about Policy](#politics-isnt-a)
+26. [Views Aren’t About Sights](#views-arent-about-sights)
+27. [Why Do Bets Look Bad?](#why-do-bets-look-bad)
+28. [Homo Hypocritus](#homo-hipocritus)
+29. [Resolving Your Hypocrisy](#resolving_your_)
+30. [Errors, Lies, and Self-Deception](#errors-lies-and-self-deception)
 
 ## Norms
-31. [Enforce Common Norms On Elites](#Enforce-Common-Norms-On-Elites)
-32. [Identity Norms](#Identity-Norms)
-33. [Exclusion As A Substitute For Norms, Law, & Governance](#Exclusion-As-A-Substitute-For-Norms,-Law,-&-Governance)
-34. [How Idealists Aid Cheaters](#How-Idealists-Aid-Cheaters)
-35. [Beware Mob War Strategy](#Beware-Mob-War-Strategy)
-36. [Automatic Norms](#Automatic-Norms)
-37. [10 Implications of Automatic Norms](#10-Implications-of-Automatic-Norms)
-38. [Automatic Norm Lessons](#Automatic-Norm-Lessons)
-39. [Automatic Norms in Academia](#Automatic-Norms-in-Academia)
+31. [Enforce Common Norms On Elites](#enforce-common-norms-on-elites)
+32. [Identity Norms](#identity-norms)
+33. [Exclusion As A Substitute For Norms, Law, & Governance](#exclusion-as-a-substitute-for-norms-law-governance)
+34. [How Idealists Aid Cheaters](#how-idealists-aid-cheaters)
+35. [Beware Mob War Strategy](#beware-mob-war-strategy)
+36. [Automatic Norms](#automatic-norms)
+37. [10 Implications of Automatic Norms](#10-implications-of-automatic-norms)
+38. [Automatic Norm Lessons](#automatic-norm-lessons)
+39. [Automatic Norms in Academia](#automatic-norm-examples)
 
 ## Fiction
-40. [Plot Holes & Blame Holes](#Plot-Holes-&-Blame-Holes)
-41. [Fairy Tales Were Cynical](#Fairy-Tales-Were-Cynical)
-42. [Why Fiction Lies](#Why-Fiction-Lies)
-43. [Biases Of Fiction](#Biases-Of-Fiction)
-44. [Why We Fight Over Fiction](#Why-We-Fight-Over-Fiction)
-45. [Stories Are Like Religion](#Stories-Are-Like-Religion)
-46. [More Stories As Religion](#More-Stories-As-Religion)
+40. [Plot Holes & Blame Holes](#blame-holes-like-plot-holes)
+41. [Fairy Tales Were Cynical](#fairy-tales-were-cynical)
+42. [Why Fiction Lies](#why-fiction-lies)
+43. [Biases Of Fiction](#biases-of-fiction)
+44. [Why We Fight Over Fiction](#why-we-fight-over-fiction)
+45. [Stories Are Like Religion](#stories-are-like-religion)
+46. [More Stories As Religion](#more-stories-as-religion)
 
 ## The Dreamtime
-47. [This is the Dream Time](#This-is-the-Dream-Time)
-48. [DreamTime](#DreamTime)
-49. [Dreamtime Social Games](#Dreamtime-Social-Games)
-50. [We Moderns Are Status-Drunk](#We-Moderns-Are-Status-Drunk)
-51. [Earth: A Status Report](#Earth:-A-Status-Report)
-52. [On Teen Angst](#On-Teen-Angst)
+47. [This is the Dream Time](#this-is-the-dream-time)
+48. [DreamTime](#dreamtime)
+49. [Dreamtime Social Games](#dreamtime-games)
+50. [We Moderns Are Status-Drunk](#our-big-wealth-status-mistake)
+51. [Earth: A Status Report](#earth-a-status-report)
+52. [On Teen Angst](#on-teen-angst)
 
 # Part 3: Our Institutions
 ## Prediction Markets
-53. [Prediction Markets “Fail” To Moloch](#Prediction-Markets-“Fail”-To-Moloch)
-54. [Seeking Robust Credible Expertise Buyers](#Seeking-Robust-Credible-Expertise-Buyers)
-55. [Prediction Markets Need Trial and Error](#Prediction-Markets-Need-Trial-and-Error)
-56. [New-Hire Prediction Markets](#New-Hire-Prediction-Markets)
-57. [Shoulda-Listened Futures](#Shoulda-Listened-Futures)
-58. [Brand Truth Narrowly](#Brand-Truth-Narrowly)
+53. [Prediction Markets “Fail” To Moloch](#prediction-markets-fail-to-moloch)
+54. [Seeking Robust Credible Expertise Buyers](#seeking-robust-credible-expertise-buyers)
+55. [Prediction Markets Need Trial and Error](#prediction-markets-need-experimentation)
+56. [New-Hire Prediction Markets](#new-hire-prediction-markets)
+57. [Shoulda-Listened Futures](#shoulda-listened-futures)
+58. [Brand Truth Narrowly](#brand-truth-narrowly)
 
 ## Academia
-59. [Fixing Academia Via Prediction Markets](#Fixing-Academia-Via-Prediction-Markets)
-60. [Intellectual Prestige Futures](#Intellectual-Prestige-Futures)
-61. [Academic Stats Prediction Markets](#Academic-Stats-Prediction-Markets)
-62. [How To Fund Prestige Science](#How-To-Fund-Prestige-Science)
+59. [Fixing Academia Via Prediction Markets](#how-to-reform-academia-with-prediction-markets)
+60. [Intellectual Prestige Futures](#intellectual-prestige-futures)
+61. [Academic Stats Prediction Markets](#academic-stats-prediction-markets)
+62. [How To Fund Prestige Science](#how-to-fund-prestige-science)
 
 ## Medicine
-63. [Medical Doubts OpEd](#Medical-Doubts-OpEd)
-64. [Medical Market Failures](#Medical-Market-Failures)
+63. [Medical Doubts OpEd](#medical-doubts-oped)
+64. [Medical Market Failures](#medical-market-failures)
 
 ## Paternalism
-65. [Paternalism Is About Status](#Paternalism-Is-About-Status)
-66. [Rulesy Folks Push Paternalism](#Rulesy-Folks-Push-Paternalism)
-67. [Universal Basic Dorms](#Universal-Basic-Dorms)
+65. [Paternalism Is About Status](#explaining-paternalism)
+66. [Rulesy Folks Push Paternalism](#rulesy-folks-push-paternalism)
+67. [Universal Basic Dorms](#universal-basic-dorms)
 
 ## Law
-68. [Elites Must Rule](#Elites-Must-Rule)
-69. [Status App Concept](#Status-App-Concept)
-70. [Our Prestige Obsession](#Our-Prestige-Obsession)
-71. [Yay Stability Rents](#Yay-Stability-Rents)
-72. [Conditional Harberger Tax Games](#Conditional-Harberger-Tax-Games)
-73. [Reliable Private-Enough Physical Identity](#Reliable-Private-Enough-Physical-Identity)
-74. [Freedom Isn’t Free](#Freedom-Isn’t-Free)
-75. [Quality Regs Say ‘High Is Good’](#Quality-Regs-Say-‘High-Is-Good’)
-76. [Socialism: A Gift You’d Exchange?](#Socialism:-A-Gift-You’d-Exchange?)
-77. [Vouch For Pandemic Passports](#Vouch-For-Pandemic-Passports)
-78. [Can We Tame Political Minds?](#Can-We-Tame-Political-Minds?)
-79. [Consider Reparations](#Consider-Reparations)
-80. [Regulating Infinity](#Regulating-Infinity)
-81. [Privately Enforced & Punished Crime](#Privately-Enforced-&-Punished-Crime)
-82. [Fine Grain Futarchy Zoning Via Harberger Taxes](#Fine-Grain-Futarchy-Zoning-Via-Harberger-Taxes)
+68. [Elites Must Rule](#elites-must-rule)
+69. [Status App Concept](#status-app-concept)
+70. [Our Prestige Obsession](#our-prestige-obsession)
+71. [Yay Stability Rents](#for-stability-rents)
+72. [Conditional Harberger Tax Games](#conditional-harberger-tax-games)
+73. [Reliable Private-Enough Physical Identity](#reliable-private-human-identity)
+74. [Freedom Isn’t Free](#freedom-isnt-free)
+75. [Quality Regs Say ‘High Is Good’](#quality-regs-say-high-is-good)
+76. [Socialism: A Gift You’d Exchange?](#socialism-a-gift-youd-exchange)
+77. [Vouch For Pandemic Passports](#vouch-for-pandemic-passports)
+78. [Can We Tame Political Minds?](#can-we-tame-political-minds)
+79. [Consider Reparations](#consider-reparations)
+80. [Regulating Infinity](#regulating-infinity)
+81. [Privately Enforced & Punished Crime](#privately-enforced-punished-crime)
+82. [Fine Grain Futarchy Zoning Via Harberger Taxes](#fine-grain-futarchy-zoning-via-harberger-taxes)
 
 # Our 3: Our Past
 ## Farmers and Foragers
-83. [Fear Made Farmers](#Fear-Made-Farmers)
-84. [Forage vs Farm Future](#Forage-vs-Farm-Future)
-85. [Two Types of People](#Two-Types-of-People)
-86. [Forager v Farmer, Elaborated](#Forager-v-Farmer,-Elaborated)
-87. [Rome As Semi-Foragers](#Rome-As-Semi-Foragers)
-88. [Self-Control Is Slavery](#Self-Control-Is-Slavery)
-89. [School Is To Submit](#School-Is-To-Submit)
-90. [Why Grievances Grow](#Why-Grievances-Grow)
-91. [The World Forager Elite](#The-World-Forager-Elite)
+83. [Fear Made Farmers](#fear-made-farmers)
+84. [Forage vs Farm Future](#forager-v-farmer-future)
+85. [Two Types of People](#two-types-of-people)
+86. [Forager v Farmer, Elaborated](#forager-v-farmer-elaborated)
+87. [Rome As Semi-Foragers](#romans-foreshadow-industry)
+88. [Self-Control Is Slavery](#self-control-is-slavery)
+89. [School Is To Submit](#school-is-to-submit)
+90. [Why Grievances Grow](#egalitarian-complaints)
+91. [The World Forager Elite](#the-world-forager-elite)
 
 ## History as Exponential Modes
-92. [The Great Cycle Rule](#The-Great-Cycle-Rule)
-93. [The Labor-From-Factories Explosion](#The-Labor-From-Factories-Explosion)
-94. [Lost Advanced Civilizations](#Lost-Advanced-Civilizations)
+92. [The Great Cycle Rule](#the-great-cycle-rule)
+93. [The Labor-From-Factories Explosion](#the-labor-from-factories-explosion)
+94. [Lost Advanced Civilizations](#lost-advanced-civilizations)
 
 ## The Great Filter
-95. [Try-Try or Try-Once Great Filter?](#Try-Try-or-Try-Once-Great-Filter?)
-96. [Great Filter with Set-Backs, Dead-Ends](#Great-Filter-with-Set-Backs,-Dead-Ends)
-97. [Seeing ANYTHING Other Than Huge-Civ Is Bad News](#Seeing-ANYTHING-Other-Than-Huge-Civ-Is-Bad-News)
-98. [Our Level in the Great Filter](#Our-Level-in-the-Great-Filter)
-99. [At Least Two Filters](#At-Least-Two-Filters)
-100. [Fertility: The Big Problem](#Fertility:-The-Big-Problem)
+95. [Try-Try or Try-Once Great Filter?](#try-try-or-try-once-great-filter)
+96. [Great Filter with Set-Backs, Dead-Ends](#great-filter-steps-with-set-backs-dead-ends)
+97. [Seeing ANYTHING Other Than Huge-Civ Is Bad News](#what-shows-smaller-future-filter)
+98. [Our Level in the Great Filter](#response-to-lineweaver)
+99. [At Least Two Filters](#at-least-two-filters)
+100. [Fertility: The Big Problem](#fertility-the-big-problem)
 
 # Part 4: Our Future
 ## Aliens
-101. [Humans Are Early](#Humans-Are-Early)
-102. [An Alien War Nightmare](#An-Alien-War-Nightmare)
-103. [Non-Grabby Legacies](#Non-Grabby-Legacies)
-104. [Why We Can’t See Grabby Aliens](#Why-We-Can’t-See-Grabby-Aliens)
-105. [Beware General Visible Prey](#Beware-General-Visible-Prey)
-106. [If The Future Is Big](#If-The-Future-Is-Big)
+101. [Humans Are Early](#humans-are-early)
+102. [An Alien War Nightmare](#an-alien-war-nightmare)
+103. [Non-Grabby Legacies](#non-grabby-legacies)
+104. [Why We Can’t See Grabby Aliens](#why-we-cant-see-grabby-aliens)
+105. [Beware General Visible Prey](#beware-general-visible-near-prey)
+106. [If The Future Is Big](#long-term-growth-implications)
 
 ## UFOs
-107. [UFOs – What The Hell?](#UFOs-–-What-The-Hell?)
-108. [Our Alien Stalkers](#Our-Alien-Stalkers)
-109. [On UFOs-As-Aliens Priors](#On-UFOs-As-Aliens-Priors)
-110. [UFOs Show Govt. Competence As Either Surprisingly High Or Low](#UFOs-Show-Govt.-Competence-As-Either-Surprisingly-High-Or-Low)
-111. [My Awkward Inference](#My-Awkward-Inference)
-112. [UFO Stylized Social Facts](#UFO-Stylized-Social-Facts)
-113. [Explaining Stylized UFO Facts](#Explaining-Stylized-UFO-Facts)
-114. [Non-UFO Local Alien Clues](#Non-UFO-Local-Alien-Clues)
-115. [UFOs and Status](#UFOs-and-Status)
+107. [UFOs – What The Hell?](#ufos-what-the-hell)
+108. [Our Alien Stalkers](#our-alien-stalkers)
+109. [On UFOs-As-Aliens Priors](#on-ufo-as-aliens-priors)
+110. [UFOs Show Govt. Competence As Either Surprisingly High Or Low](#ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low)
+111. [My Awkward Inference](#my-awkward-situation)
+112. [UFO Stylized Social Facts](#social-ufo-stylized-facts)
+113. [Explaining Stylized UFO Facts](#explaining-stylized-ufo-facts)
+114. [Non-UFO Local Alien Clues](#non-ufo-local-alien-clues)
+115. [UFOs and Status](#ufos-and-status)
 
 ## The Age of Em
-116. [Why Age of Em Will Happen](#Why-Age-of-Em-Will-Happen)
-117. [How To Not Die (Soon)](#How-To-Not-Die-(Soon))
-118. [How Does Brain Code Differ?](#How-Does-Brain-Code-Differ?)
-119. [Progeny Probabilities: Souls, Ems, Quantum](#Progeny-Probabilities:-Souls,-Ems,-Quantum)
-120. [Em Redistribution](#Em-Redistribution)
+116. [Why Age of Em Will Happen](#why-age-of-em-will-happen)
+117. [How To Not Die (Soon)](#how-to-not-die-soon)
+118. [How Does Brain Code Differ?](#how-does-brain-code-differ)
+119. [Progeny Probabilities: Souls, Ems, Quantum](#progeny-probs-human-em-quantum)
+120. [Em Redistribution](#em-redistribution)
 
 ## Artificial Intelligence
-121. [A.I. Old-Timers](#A.I.-Old-Timers)
-122. [How Lumpy AI Services?](#How-Lumpy-AI-Services?)
-123. [A History Of Foom](#A-History-Of-Foom)
-124. [I Still Don’t Get Foom](#I-Still-Don’t-Get-Foom)
-125. [Foom Justifies AI Risk Efforts Now](#Foom-Justifies-AI-Risk-Efforts-Now)
-126. [Is The City-ularity Near?](#Is-The-City-ularity-Near?)
-127. [The Betterness Explosion](#The-Betterness-Explosion)
-128. [An Outside View of AI Control](#An-Outside-View-of-AI-Control)
-129. [AI Risk, Again](#AI-Risk,-Again)
-130. [Foom Update](#Foom-Update)
+121. [A.I. Old-Timers](#roger-shank-ai)
+122. [How Lumpy AI Services?](#how-lumpy-ai-services)
+123. [A History Of Foom](#a-history-of-foom)
+124. [I Still Don’t Get Foom](#30855)
+125. [Foom Justifies AI Risk Efforts Now](#foom-justifies-ai-risk-efforts-now)
+126. [Is The City-ularity Near?](#is-the-city-ularity-near)
+127. [The Betterness Explosion](#the-betterness-explosion)
+128. [An Outside View of AI Control](#an-outside-view-of-ai-control)
+129. [AI Risk, Again](#ai-risk-again)
+130. [Foom Update](#foom-update)
 
 ---
 
-## [Abstract/Distant Future Bias](#table-of-contents)
+<h3 id="abstractdistant"> [Abstract/Distant Future Bias](#table-of-contents)</h3>
 _Posted on 2008-11-26_
 
 The latest <em>Science </em>has a <a href="http://www.sciencemag.org/cgi/reprint/322/5905/1201.pdf">psych article</a> saying we think of distant stuff more abstractly, and vice versa.  "The brain is hierarchically organized with higher points in the cortical hierarchy representing increasingly more abstract aspects of stimuli"; activating a region makes nearby activations more likely.  This has stunning implications for our biases about the future.  
@@ -197,7 +197,7 @@ Of course being biased to see things a certain way doesn’t mean they aren’t 
 > [On] a task that required abstraction of coherent images from fragmented or noisy visual input … performance improved … when they anticipated working on the actual task in the more distant future … when participants thought the actual task was less likely to take place and when social distance was enhanced by priming of high social status. … Participants who thought of a more distant event created fewer, broader groups of objects. … Participants tended to describe more distant future activities (e.g., studying) in high-level terms (e.g., "doing well in school") rather than in low-level terms (e.g., "reading a textbook"). … Compared with in-groups, out-groups are described in more abstract terms and believed to possess more global and stable traits … Participants drew stronger inferences about others’ personality from behaviors that took place in spatially distal, as compared with spatially proximal locations. … Behavior that is expected to occur in the more distant future is more likely to be explained in dispositional rather than in situational terms … 
 > Thinking about an activity in high level, "why," terms rather than low level, "how," terms led participants to think of the activity as taking place in more distant points in time. … Students were more confident that an experiment would yield theory-confirming results when they expected the experiment to take place in a more distant point in time. … Spatial distance enhanced the tendency to predict on the basis of the global trend rather than on the basis of local deviation. … As temporal distance from an activity (e.g., attending a guest lecture) increased, the attractiveness of the activity depended more on its desirability (e.g.,how interesting the lecture was) and less on its feasibility (e.g., how convenient the timing of the lecture was). … People take greater risks (i.e., favoring bets with a low probability of winning a high amount over those that offer a high probability to win a small amount) in decisions about temporally more distant bets.
 
-## [Abstractly Ideal, Concretely Selfish](#table-of-contents)
+<h3 id="abstractly-ideal-concretely-selfish"> [Abstractly Ideal, Concretely Selfish](#table-of-contents)</h3>
 _Posted on 2014-04-28_
 
 A new <em>JPSP</em> <a href="http://psycnet.apa.org/journals/psp/106/5/790/">paper</a> [confirms](far-idealism-puzzles) that we are idealistic in far mode, and selfish in near mode. If you ask people for short abstract descriptions of their goals, they’ll say they have ideal goals. But if you ask them to describe in details what is it like to be them pursuing their goals, their selfishness shines clearly through. Details:
@@ -209,7 +209,7 @@ Taken together, this leads to the prediction that frames the current research: I
 
 The motivation to behave selfishly while appearing moral gave rise to two, divergently motivated selves. The actor—the watched self— tends to be moral; the agent—the self as executor—tends to be selfish. Each self serves its own adaptive function: The actor helps people maintain inclusion in groups, whereas the agent attends to basic survival needs. Three studies support the thesis that the actor is moral and the agent is selfish. In Study 1, actors claimed their goals were equally about helping the self and others (viz., moral); agents claimed their goals were primarily about helping the self (viz., selfish). This disparity was evident in both individualist and collectivist cultures, albeit more so among individualists. Study 2 compared actors and agents’ motives to those of people role-playing highly prosocial or selfish exemplars. In content and in the impression they made upon an outside observer, actors’ motives were similar to those of the prosocial role-players, whereas agents’ motives were similar to those of the selfish role-players. In Study 3, participants claimed that their agent’s motives were the more realistic and their actor’s motives the more idealistic of the two. When asked to take on an idealistic mindset, agents became more moral; a realistic mindset made the actor more selfish. (<a href="http://psycnet.apa.org/journals/psp/106/5/790/">more</a>)
 
-## [We Add Near, Average Far](#table-of-contents)
+<h3 id="we-add-near-average-far"> [We Add Near, Average Far](#table-of-contents)</h3>
 _Posted on 2012-10-02_
 
 Quick, what is the <em>best</em> gift you ever got from a woman? From your parents? From a left-handed person? From a teacher? These aren’t easy questions to answer. But they seem easier than these questions: What is the <em>total value of</em> all the gifts you ever got from women? From your parents? From left-handed folks? From teachers?
@@ -244,7 +244,7 @@ Futurism is probably the most far view sort of topic, so I’d guess that all th
 
 <strong>Added Nov 25, 2012</strong>: <a href="http://80000hours.org/blog/118-why-don-t-people-help-others-more-part-1">This post</a> gives data showing people donate money based more on the average than the total sympathy of the recipients. So you are better off asking for donations to help a particular especially sympathetic recipient, than to help many such folks.
 
-## [Why We Don’t Know What We Want](#table-of-contents)
+<h3 id="why-we-dont-know-what-we-want"> [Why We Don’t Know What We Want](#table-of-contents)</h3>
 _Posted on 2022-10-27_
 
 > Moons and Junes and Ferris wheels  
@@ -279,7 +279,7 @@ For example, most of us have felt strong feelings of lust, limerence, and attach
 
 Because we really can’t see love up close and in detail. Because we treat love as sacred. And sacred things we see from afar, so we can see them together.
 
-## [We See the Sacred from Afar, to See It Together](#table-of-contents)
+<h3 id="sacredness-as-unity-induced-abstraction"> [We See the Sacred from Afar, to See It Together](#table-of-contents)</h3>
 _Posted on 2022-08-27_
 
 I’ve recently been [trying](https://www.overcomingbias.com/2022/07/beware-sacred-cows.html) to make sense of our concept of the “sacred”, by puzzling over its many correlates. And I think I’ve found a way to make more sense of it in terms of near-far (or “construal level”) theory, a [framework](https://www.overcomingbias.com/tag/nearfar) [that](https://www.overcomingbias.com/2008/11/abstractdistant.html) [I’ve](https://www.overcomingbias.com/2010/05/far-is-hypocritical.html) [discussed](https://www.overcomingbias.com/2010/06/near-far-summary.html) [here](https://www.overcomingbias.com/2014/07/near-far-work-continues.html) many times before.
@@ -312,7 +312,7 @@ Because at least this way we all see each other’s ineffective medical choices 
 
 **Added 10Sep:** Other [dual process](https://link.springer.com/article/10.1007/s10803-022-05733-6) theories of brains give similar predictions.
 
-## [The Future Seems Shiny](#table-of-contents)
+<h3 id="the-future-seems-shiny"> [The Future Seems Shiny](#table-of-contents)</h3>
 _Posted on 2010-10-19_
 
 <em>The future is not the realization of our hopes and dreams, a warning to mend our ways, an adventure to inspire us, nor a romance to touch our hearts. The future is just another place in spacetime. </em>(<a href="http://hanson.gmu.edu/hardscra.pdf">more</a>)
@@ -352,7 +352,7 @@ Of course it remains possible that many of the above far-mode-based expectations
 
 <strong>Added</strong>: Coincidentally, I was just quoted in <a href="http://www.npr.org/templates/story/story.php?storyId=130585002">this NPR article</a> saying the future isn’t what it used to be.
 
-## [Doubting My Far Mind](#table-of-contents)
+<h3 id="doubting-my-far-mind"> [Doubting My Far Mind](#table-of-contents)</h3>
 _Posted on 2010-09-29_
 
 A while back I was discussing long term future values, i.e., what we want our descendants to be or achieve, and I realized that pretty much any simple description of such values seems crazy.  With a little effort it is easy to find counter-examples, or at least discomfort-examples, to most any description much beyond “I hope future folks get what they want.”
@@ -366,7 +366,7 @@ Applying these observations to myself, I think I have to conclude that I just do
 
 In contrast, if I’m feeling rich and comfortable, and so less in need of success, well then I should enjoy myself by doing whatever seems appealing at the time, as long as that doesn’t threaten my basic stable position in life.  I’m capable of doing a lot more abstract thinking about what is good for me or the world, but at the moment I just don’t trust that thinking much.  What I most enjoy may well be to think on big far topics, but I shouldn’t presume I have a coherent integrated account showing their true global importance.
 
-## [Beware the Inside View](#table-of-contents)
+<h3 id="beware-the-insi"> [Beware the Inside View](#table-of-contents)</h3>
 _Posted on 2007-07-25_
 
 Instead of watching fireworks on July 4, I did 1500 piece jigsaw puzzle of fireworks, my first jigsaw in at least ten years.  Several times I had the strong impression that I had carefully eliminated every possible place a piece could go, or every possible piece that could go in a place.  I was very tempted to conclude that many pieces were missing, or that the box had extra pieces from another puzzle.  This wasn’t impossible – the puzzle was an open box a relative had done before.  And the alternative seemed humiliating.  
@@ -386,7 +386,7 @@ Instead of watching fireworks on July 4, I did 1500 piece jigsaw puzzle of firew
 
 If overcoming bias comes down to having an outside view overrule an inside view, then our questions become: what are valid outside views, and what will motivate us to apply them?
 
-## [Are Meta Views Outside Views?](#table-of-contents)
+<h3 id="are-meta-views"> [Are Meta Views Outside Views?](#table-of-contents)</h3>
 _Posted on 2008-06-22_
 
 An inside view focuses on internals of the case at hand, while an [outside view](singularity-out) compares this case to other similar cases.  The less you understand about something the harder it is to apply either an inside or an outside view.  So the simplest approach would be to just do the best you could with each view and then combine their results in some simple way.  
@@ -396,7 +396,7 @@ An inside view focuses on internals of the case at hand, while an [outside view]
 
 This suggests to me that most useful meta views are outside meta views.  If you are going to reject an outside view in favor of an inside view on the basis of some insight on when inside views work better, you will be relying on an outside metaview.   So it seems you can’t escape embracing some outside view, though you might embrace a meta outside view instead of a basic outside view.
 
-## [Disagreement Is Near-Far Bias](#table-of-contents)
+<h3 id="disagreement-is-nearfar-bias"> [Disagreement Is Near-Far Bias](#table-of-contents)</h3>
 _Posted on 2009-01-14_
 
 Back in November I read <a href="http://www.sciencemag.org/cgi/reprint/322/5905/1201.pdf">this</a> Science review by Nira Liberman and Yaacov Trope on their awkwardly-named "<a href="http://www.psych-it.com.au/Psychlopedia/article.asp?id=79">Construal level theory</a>", and wrote [a post](abstractdistant) I estimated "to be the most dense with useful info on identifying our biases I've ever written": 
@@ -413,7 +413,7 @@ Since then I've become even more impressed with it, as it explains most biases I
 
  And this is the key error: our minds often assure us that they have taken certain factors into account when they have done no such thing.  I tell myself that of course I realize that I might be biased by my interests; I'm not that stupid.  So I must have already taken that possible bias into account, and so my conclusion must be valid even after correcting for that bias.  But in fact I haven't corrected for it much at all; I've just assumed that I did so.
 
-## [Others’ Views Are Detail](#table-of-contents)
+<h3 id="others-views-are-detail"> [Others’ Views Are Detail](#table-of-contents)</h3>
 _Posted on 2010-07-29_
 
 In Jan ’09 [I wrote](disagreement-is-nearfar-bias):
@@ -433,7 +433,7 @@ Random others are little people, you see, which are fit for little topics.  But 
 
 Perhaps it makes sense to keep random others from influencing our core values (which are about us), but on questions of fact (which are about the world out there), most folks seem to make the [huge mistake](disagreement-de) of vastly underestimating the info contained of others’ opinions, relative to the info contained in their own explicit reasons. Yes there may be people and times when others’ opinions really do contain relatively little info, but most folks are far too quick to assume that this applies to them now.
 
-## [Why Be Contrarian?](#table-of-contents)
+<h3 id="why-be-contrarian"> [Why Be Contrarian?](#table-of-contents)</h3>
 _Posted on 2017-11-25_
 
 While I’m a contrarian in many ways, it think it fair to call my ex-co-blogger Eliezer Yudkowsky even more contrarian than I. And he has just published a book, <a href="https://equilibriabook.com"><em>Inadequate Equilibria</em></a>, defending his contrarian stance, against what he calls “modesty”, illustrated in these three quotes:
@@ -516,7 +516,7 @@ Eliezer Yudkowsky’s new book <a href="https://equilibriabook.com"><em>Inadequa
 
 Of course, if you are trying hard to make a big advance somewhere, then it can make sense to just assume you are better, at least within the scope of the topic areas where you might make your big advance. But for other topic areas, and for everyone else, you should still wonder how sure you can reasonably be that you have in fact not neglected clues showing that you are less meta-rational than those with whom you feel free to disagree. This remains the big open question in the rationality of disagreement. It is a question to which I hope to return someday.
 
-## [On Disagreement, Again](#table-of-contents)
+<h3 id="on-disagreement-again"> [On Disagreement, Again](#table-of-contents)</h3>
 _Posted on 2022-02-15_
 
 The usual party chat rule says to not spend too long on any one topic, but instead to flit among topics unpredictably. Many thinkers also seem to follow a rule where if they think about a topic and then write up an opinion, they are done and don’t need to ever revisit the topic again. In contrast, I have great patience for returning again and again to the most important topics, even if they seem crazy hard. And for spending a lot time on each topic, even if I’m at a party.
@@ -562,7 +562,7 @@ Imagine that you specialize in a topic so much that you know nearly as much as t
 
 In this sort of case, I think you should feel more free to disagree. Though you should respect base rates, and try to test your views as fast and strongly as possible. As the world is just not listening to you, you can’t expect them yet to credit what you know. Just also don’t expect the world to reward you or pay you much attention, even if you are right.
 
-## [Rationality Requires Common Priors](#table-of-contents)
+<h3 id="rationality-requires-common-priors"> [Rationality Requires Common Priors](#table-of-contents)</h3>
 _Posted on 2018-10-18_
 
 Late in November 2006 I started this blog, and a month later on Christmas eve I [reported](why_common_prio) briefly on the official <a href="https://link.springer.com/article/10.1007/s11238-006-9004-4">publication</a> (after 8 rejections) of my paper <a href="http://hanson.gmu.edu/prior.pdf"><em>Uncommon Priors Require Origin Disputes</em></a>. That was twelve years ago, and now Google Scholar tells me that this paper has <a href="https://scholar.google.com/scholar?cites=16708392721542063153&amp;as_sdt=5,47&amp;sciodt=0,47&amp;hl=en">17 cites</a>, which is about 0.4% of my 3933 <a href="https://scholar.google.com/citations?user=PjIP_WcAAAAJ&amp;hl=en">total cites</a>, which I’d say greatly under-estimates its value.
@@ -604,7 +604,7 @@ I summarize this as believing that “my prior had special origins.” My prior 
 
 The obvious and easy way to not believe that your prior resulted from a special unusual origin process is to have common priors. And so this pre-rationality constraint can be seen as usually favoring common priors. I thus have a concrete argument that Bayesians should have common priors, an argument based on the reasonable rationality consideration that not all causal origins of priors are equally rational. If priors should be consistent with plausible beliefs about their causal origins, then priors must typically be common.
 
-## [Might Disagreement Fade Like Violence?](#table-of-contents)
+<h3 id="disagreementfade"> [Might Disagreement Fade Like Violence?](#table-of-contents)</h3>
 _Posted on 2019-12-19_
 
 Violence was quite common during much of the ancient farming era. While farmers retained even-more-ancient norms against being the first to start a fight, it was often not easy for observers to tell who started a fight. And it was even harder to get those who did know to honestly report that to neutral outsiders. Fighters were typically celebrated for showing strength and bravery, And also loyalty when they claimed to fight “them” in service of defending “us”. Fighting was said to be good for societies, such as to help prepare for war. The net effect was that the norm against starting fights was not very effective at discouraging fights during the farming era, especially when many “us” and “them” were in close proximity.
@@ -620,7 +620,7 @@ Imagine that we saw disagreement as socially destructive, to be discouraged. And
 
 When confronted with such an imaged future scenario, many people today claim to see it as stifling and repressive. They very much enjoy their freedom today to freely disagree with anyone at any time. But many ancients probably also greatly enjoyed the freedom to hit anyone they liked at anytime. Back then, it was probably the stronger better fighters, with the most fighting allies, who enjoyed this freedom most. Just like today it is probably the people who are best at arguing to make their opponents look stupid who enjoy our freedom to disagree today. Doesn’t mean this alternate world wouldn’t be better.
 
-## [Reject Random Beliefs](#table-of-contents)
+<h3 id="reject-random-b"> [Reject Random Beliefs](#table-of-contents)</h3>
 _Posted on 2008-03-05_
 
 xml version="1.0" standalone="yes"? html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd" 
@@ -649,7 +649,7 @@ A good reason must be based on some feature of you that is different from others
 
  Let’s assume the average position on this issue is 50, and that you can see no good reason to think the genes that lean you toward property taxes are better than average.  Since the table says that 41% of belief variation on this topic is genetic,  then to eliminate this genetic component of your beliefs, you might reduce your position from 90 to 81, since this takes away 40% of the variance of your belief relative to the average.
 
-## [Chase Your Reading](#table-of-contents)
+<h3 id="chase-your-reading"> [Chase Your Reading](#table-of-contents)</h3>
 _Posted on 2010-05-28_
 
 Hunting has two main modes: <em>searching</em> and <em>chasing</em>.  With searching you look for something to chase. With chasing, in contrast, you have a focus of attention that drives your actions. You may find something else worth chasing along the way, and then switch your focus to a new chase, but you’ll still maintain a focus.
@@ -672,7 +672,7 @@ So if you read to be intellectually productive, rather than just to fill your ti
 
 What we read with inclination makes a much stronger impression. If we read without inclination, half the mind is employed in fixing the attention; so there is but one half to be employed on what we read.
 
-## [Against Free Thinkers](#table-of-contents)
+<h3 id="against_free_th"> [Against Free Thinkers](#table-of-contents)</h3>
 _Posted on 2007-06-14_
 
 > <strong>Freethinker.</strong> <em>One who has rejected authority and dogma, especially in his religious thinking, in favor of rational inquiry and speculation.</em>  A<a href="http://www.bartleby.com/61/25/F0312500.html">merican Heritage Dictionary </a>  <em><br/></em>
@@ -686,7 +686,7 @@ _Posted on 2007-06-14_
 
 The problem is that on average people who support odd ideas are less desirable as associates, and less discriminating in which ideas they endorse.  If people only endorsed odd ideas when they had new information suggesting such ideas were promising, we should be eager to hear of such news, and eager to associate with such people.  But in fact the main task faced by those with good news on odd ideas is to distinguish themselves from freethinkers who just pretend to have such news.  Contrary to their self-image, undiscriminating freethinkers are our main obstacle to innovation.
 
-## [Eventual Futures](#table-of-contents)
+<h3 id="eventual-futures"> [Eventual Futures](#table-of-contents)</h3>
 _Posted on 2012-05-15_
 
 I’ve noticed that recommendations for action based on a vision of the future are based on an idea that something must “eventually” occur.  For example, <strong>eventually</strong>:
@@ -718,7 +718,7 @@ This is usually a mistake. The trend may not continue indefinitely. Or, by the t
 
 It is just not enough to suspect that an extreme will be reached eventually – you usually need a good reason to think it will happen soon, and and that you know a robust way to address it. In far mode it often feels like the far future is clearly visible, and that few obstacles stand in the way of planning paths to achieve far ends. But in fact, the world is much messier than far mode is willing to admit.
 
-## [Seen vs. Unseen Biases](#table-of-contents)
+<h3 id="seen_vs_unseen_"> [Seen vs. Unseen Biases](#table-of-contents)</h3>
 _Posted on 2006-12-04_
 
 I suspect the following issue will be a thorn in our sides for some time to come:  when can we justify seen biases as correcting for unseen biases?   "Seen" biases are relatively easy to see and document, whereas "unseen" biases are said to exist but are harder to clearly see.
@@ -733,7 +733,7 @@ I once told an investment adviser I didn’t want his services because people li
 
 The key issue here is that if it is too easy to believe in unseen biases, we could justify all of our seen biases as countering made-up unseen biases.
 
-## [Law as No-Bias Theatre](#table-of-contents)
+<h3 id="law_as_nobias_t"> [Law as No-Bias Theatre](#table-of-contents)</h3>
 _Posted on 2006-12-11_
 
 Why is there law?   Some say for social justice, others for economic efficiency.  I suspect that "law is theater"; i.e., law is there to make disputants shut up.  When one person is mad as hell at another, law wants an outcome where neither they nor their friends yell and complain, and make the law look bad.  To achieve this, hard to understand legal processes make it hard to know what exactly to complain about, a long expensive process saps the energy needed to complain, and the option of endless appeals makes it unclear when to complain. 
@@ -748,7 +748,7 @@ Most of the legal biases that concern people are not due to juror interests.   A
 
 While we have built elaborate legal structures to deal with these supposed biases, legal scholars have spent almost no effort to document that such biases are real.  Legal rules constraining jurors are thus [seen biases, justified as responding to unseen biases](seen_vs_unseen_).   If the law were about social justice or economic efficiency, you’d think the legal system would study biases a lot more.   But if law is more about no-bias-theatre, needing only to make it hard for disputants to complain of bias, what would be the point?
 
-## [Benefit of Doubt = Bias](#table-of-contents)
+<h3 id="benefit_of_doub"> [Benefit of Doubt = Bias](#table-of-contents)</h3>
 _Posted on 2006-12-29_
 
 One <a href="http://idioms.thefreedictionary.com/give+the+benefit+of+the+doubt">dictionary defines</a> "to give the benefit of the doubt" as
@@ -780,7 +780,7 @@ Finally, consider Eliezer Yudkowsky’s [complaint](the_modesty_arg) about modes
 
 The key question is: what concrete evidence can you cite that you are more sane than a creationist, or more awake than a dreamer?   Perhaps you know more biology than a creationist, and you are more articulate than a dreamer.  But the mere feeling that you are right does not justify giving yourself "the benefit of the doubt."
 
-## [Decision Theory Remains Neglected](#table-of-contents)
+<h3 id="decision-theory-remains-neglected"> [Decision Theory Remains Neglected](#table-of-contents)</h3>
 _Posted on 2020-02-01_
 
 Back in ’84, when I first started to work at Lockheed Missiles & Space Company, I recall a manager complaining that their US government customer would not accept using decision theory to estimate the optimal thickness of missile walls; they insisted instead on using a crude heuristic expressed in terms of standard deviations of noise. Complex decision theory methods were okay to use for more detailed choices, but not for the biggest ones.
@@ -883,7 +883,7 @@ respondents, those of us who measure such things as the value of life and health
 
 Resistance to valuing a human life may be part of a fear of numbers in general. Perhaps for these people, a show of righteous indignation is part of a defense mechanism. Perhaps they feel their “innumeracy” doesn’t matter as much if quantification itself is unimportant, or even offensive, especially on issues like these. …
 
-## [What Function Music?](#table-of-contents)
+<h3 id="29816"> [What Function Music?](#table-of-contents)</h3>
 _Posted on 2012-06-09_
 
 Darwin argued that music evolved mainly by sexual selection through mate choice—and that we’re uncomfortable acknowledging that fact. (<a href="http://www.theatlantic.com/entertainment/archive/2012/04/did-humans-invent-music/255945/">more</a>)
@@ -915,7 +915,7 @@ Seven main functions of music listening were identified: music in the background
 
 Music is often used as a background; … it can also fill gaps and help pass the time. … Music can bring back memories of events, life stages, relationships and emotions or memories of loved ones. … Music is … used for feeling good and enjoying oneself. … Music has the capacity to convey emotions and to trigger emotions or emotional and physical reactions. Particular songs are … specifically chosen … in order to express a particular emotional state of the participants. …  Music can help to relax and relieve stress and to enhance creativity and intellectual focus. Listening to music can reduce loneliness, while offering a means of escape. … Certain music can assist in venting frustration and aggression. … It allows for the expression of a person’s individuality and lifestyle. … music expresses and influences values and attitudes; it can act as inspiration. … music indicates social identity by signifying group membership, for instance, belong- ing to a particular social group (like alternative or rave) or the current ‘cool group’ in school. … Music can provide an opportunity for a collective activity, such as discussing and listening to music or going to concerts together. These shared musical activities can … create a special bond. (<a href="http://pom.sagepub.com/content/40/2/179.abstract">more</a>)
 
-## [Politics isn’t about Policy](#table-of-contents)
+<h3 id="politics-isnt-a"> [Politics isn’t about Policy](#table-of-contents)</h3>
 _Posted on 2008-09-21_
 
 > <em>Food isn’t about Nutrition<br/>
@@ -948,7 +948,7 @@ This perspective explains why voters tend to prefer proportional representation,
 
 In each case where X is commonly said to be about Y, but is really X is more about Z, many are well aware of this but say we are better off pretending X is about Y.  You may be called a cynic to say so, but if honesty is important to you, join me in calling a spade a spade.
 
-## [Views Aren’t About Sights](#table-of-contents)
+<h3 id="views-arent-about-sights"> [Views Aren’t About Sights](#table-of-contents)</h3>
 _Posted on 2021-05-22_
 
 Regarding window/patios with nice beach or city views, and days when those views are nice, in <a href="https://twitter.com/robinhanson/status/1395807388880494601">two</a> <a href="https://twitter.com/robinhanson/status/1395808539864707072">polls</a> respondents estimate that at any given time 1.3% and 0.8% of such places are actually occupied by people enjoying these views. Which makes one wonder why people bother to buy exclusive use, instead of sharing them. For example, ten tenants could share a single view spot for a tenth the price, and hardly ever have conflicts over who uses it when. We similarly see people owning boats and RVs that they hardly ever use and could instead rent more cheaply.
@@ -967,7 +967,7 @@ It may take a lot of coordination to get all these suppliers to agree to deals w
 
 <strong>Added 23May:</strong> Many saying that they feel psychological aversions to renting, sharing, or paying per usage, aversions that go beyond concrete time and effort costs. They say this implies we aren’t avoiding these things to signal wealth. But that confuses different levels of causation. It could be that the <em>way</em> that our minds induce us to signal wealth is via making us feel these aversions.
 
-## [Why Do Bets Look Bad?](#table-of-contents)
+<h3 id="why-do-bets-look-bad"> [Why Do Bets Look Bad?](#table-of-contents)</h3>
 _Posted on 2013-07-08_
 
 Most social worlds lack a norm of giving much extra respect to claims supported by offers to bet. This is a [shame](bets-argue) [because](suspecting-truth-hiders) such norms would reduce insincere untruthful claims, and so make for more accurate beliefs in listeners. But instead of advocating for change, in this post I wonder: <em>why</em> are such norms rare?
@@ -993,7 +993,7 @@ If we are to find a way to make bets more popular, we’ll need to find ways to 
 
 <strong>Added</strong>: It is suspicious that I didn’t do this analysis much earlier. This is plausibly due to the usual corrupting effect of advocacy on analysis; because I advocated betting, I analyzed it insufficiently.
 
-## [Homo Hypocritus](#table-of-contents)
+<h3 id="homo-hipocritus"> [Homo Hypocritus](#table-of-contents)</h3>
 _Posted on 2010-03-23_
 
 <em>The standard social brain theory seems in conflict with standard anthropologist accounts of ancestral forager lifestyles.  Might “man the sly rule bender” resolve this conflict?</em>
@@ -1019,7 +1019,7 @@ Most norms have meta-norms against consciously trying to evade them.  Self-decep
 Gains to rule bending could be greatly reduced via social norms with very clear simple rules.  But humans seems to usually prefer complex and ambiguous rules that require “judgment” to apply.  For example, foragers often have complex incest rules, forbidding a much wider range of sex partners than is needed to prevent genetic problems.  And acts of [sorcery](mysticisms-function) are allowed to count as acts of aggression that violate social norms and must be punished, even without concrete evidence showing such acts.  Both complex broad incest rules and allowing sorcery complaints greatly increase the scope for gains to large rule-bending brains, and suggest that we tend to prefer to allow such scope.
 The idea that the main reason we have huge brains is to hypocritically bend rules seems to me a dramatic change in how we think about human nature.  If true, it should change how we understand a great many things in psychology and social science.  I’ve been obsessing about his topic for weeks, and last Thursday I ran it past Robin Dunbar, famed for his contributions to the social brain account, and he said it was pretty close to his view on the subject, and he suggested the incest example.
 
-## [Resolving Your Hypocrisy](#table-of-contents)
+<h3 id="resolving_your_"> [Resolving Your Hypocrisy](#table-of-contents)</h3>
 _Posted on 2006-12-27_
 
 > Self love is more cunning than the most cunning man in the world.  … Hypocrisy is the homage vice pays to virtue.    <a href="http://www.gutenberg.org/dirs/etext05/8roch10h.htm"><em>La Rochefoucauld</em></a>.
@@ -1044,7 +1044,7 @@ I expect people who are actually more honest will tend to have lower expectation
 
 Similarly, our conscious minds record and tell high-minded stories about our actions.  When image is important enough, we can make real sacrifices to ensure our actions fit closely with our conscious self-image.  But we usually need only minor sacrifices, my guess is that a cost-minimizing PRD forced to be more honest will rely more on admitting to low motives, and less on switching from low to high motives.
 
-## [Errors, Lies, and Self-Deception](#table-of-contents)
+<h3 id="errors-lies-and-self-deception"> [Errors, Lies, and Self-Deception](#table-of-contents)</h3>
 _Posted on 2009-06-15_
 
 <a href="http://bps-research-digest.blogspot.com/2009/06/were-unable-to-read-our-own-body.html">About</a> a recent <em>European Journal of Personality</em> article:
@@ -1074,7 +1074,7 @@ Of course this minimal rationality approach makes me subject to my subconscious 
 
 Many folks figure that if evolution planned for them to believe a lie, they might as well believe a lie; that probably helps them acheive their goals.  But I want, first and foremost, to believe the truth.
 
-## [Enforce Common Norms On Elites](#table-of-contents)
+<h3 id="enforce-common-norms-on-elites"> [Enforce Common Norms On Elites](#table-of-contents)</h3>
 _Posted on 2019-02-20_
 
 In my experience, elites tend to differ in how they adhere to social norms: their behavior is more context-dependent. Ordinary people use relatively simple strategies of being generally nice, tough, silly, serious, etc., strategies that depend on relatively few context variables. That is, they are mostly nice or tough overall. In contrast, elite behavior is far more sensitive to context. Elites are often very nice to some people, and quite mean to others, in ways that can surprise and seem strange to ordinary people.
@@ -1098,7 +1098,7 @@ Norms aren’t norms if most people don’t support them, via at least not dispu
 
 So let’s hold our elites more accountable to our norms, listen to them when they suggest that we change norms, and especially enforce the norm of working to improve systems. Legalized blackmail could help with getting elites to adhere more closely to common norms.
 
-## [Identity Norms](#table-of-contents)
+<h3 id="identity-norms"> [Identity Norms](#table-of-contents)</h3>
 _Posted on 2019-04-15_
 
 Over the weekend I did a series of Twitter polls on identity. Seeing a <a href="http://Over the weekend I did a series of Twitter polls on identity. Seeing a survey showing that 74% of blacks but only 15% of whites find race to be central to their identity, I asked if this attitude is good for either group, and found 83% saw it as bad for both groups. Asking a similar question on sex, answers were more split, with 50% saying it is bad for both and 43% saying it is good for both. In both race and sex cases, less than 8% said it was good for one group but bad for the other. I think picked 16 features and asked which one is best for most people to treat as most central to their identity. I got these relative weights: personality 28%, family 14%, smarts 8%, fav hobby 8%, ideology 7%, job 7%, age 6%, religion 5%. gender 4%, class 3%, race 2.2%, urban area 1.6%, fav fiction 0.7%, looks 0.7%. Finally, I asked if seeing someone else treating a feature as a central to their identity tempts you more (or less) to treat it as central to your identity, and how that depends on if they have same or different value of that feature from you. I found that for features like personality, family, or favorite hobby, people think they’ll make a feature more central when they see others treat it as central, and that happens more when those others share their feature value. But for features like race, gender, or class, it was the opposite; seeing others treat it as central makes them less likely to treat it as central, an effect that is stronger when those others have a different feature value. To make sense of these results, let me invoke two theories of identity, and two relevant social norms. One theory is that identity is a way to simply ourselves to be more easily understood and predicted: We are built to find a simple story we can project about who we are that will let others predict us well. This story includes what we like, what we are good at, how we decide who we are loyal to, and so on. Such stories are naturally more than a few stats but less than all our details. … Early in our lives we search for a story that fits well with our abilities and opportunities. In our unstable youth we adjust this story as we learn more, but we reduce those changes as we start to make big life choices, and want to appear stable to our new associates. Another theory is that identity is a way to coordinate on our social/political coalitions; we ally with folks like us. Sarah Constantin: Dasein is … self-definition with respect to a social context. Where do I fit in society? Who is my tribe? Who am I relative to other people? What’s my type? “Identifying as” always includes an element of misdirection. Merely describing yourself factually (“I was born in 1988”) is not Dasein. Placing an emphasis, exaggerating, cartoonifying, declaring yourself for a team, is Dasein. But when you identify as, you say “I am such-and-such”, as though you were merely describing. … One of the qualities of Dasein is that it’s very very stealthy, and it wants everything to be about Dasein, so it winds up muddying the waters, even when you don’t intend it to. … Dasein can mess up the attempt to solve social problems. … Sexual harassment gets perceived as a flag for pink-flavored people to wave, and if you’re not pink-flavored, you’re not the target market, so you don’t take it seriously. One common human norm is that sub-group coalitions are mildly illicit. We aren’t supposed to break into factions that each fight other factions; we are supposed to all work together toward common goals, and treat each other as individuals. As with other norms against fighting, it is more okay to defend yourself against attacks from others, but you aren’t supposed to start a fight. This norm against factions explains a lot of the above poll data. Regarding what features to have as central to your identity, we approve of features which are actually useful to predict individual behavior, where people with different feature values tend to complement each other. In contrast, we disapprove of features that could more easily be used, and that have recently been used, as the basis of factional fights. People who treat less approved features as more central to their identity compensate by claiming that there is already a pre-existing faction fight along that feature, one that the other side started, and where the other side isn’t fighting fair (e.g, fighting via dominance and not prestige). They invoke our common human norm that requires independent observers to support the side of a fight favored by justice and fairness.">survey</a> showing that 74% of blacks but only 15% of whites find race to be central to their identity, I <a href="https://twitter.com/robinhanson/status/1117169689598341120">asked</a> if this attitude is good for either group, and found that 83% saw it as bad for both groups. <a href="https://twitter.com/robinhanson/status/1117430505937543168">Asking</a> a similar question on sex, answers were more split, with 50% saying it is bad for both and 43% saying it is good for both. In both the race and sex cases, less than 8% said it was good for one group but bad for the other.
@@ -1127,7 +1127,7 @@ Combining these theories and norms we can say that we have a licit and an illici
 
 From all this I conclude that we have a limited tolerance for identity politics. The more different features that become a basis for explicit coalitional fights, the less happy we will all become, and the less tolerance we will have for each fight. We can together only handle a few big factional fights at any one time, and so we’ll have to set a high bar for how clear is the evidence in each case that they started it and are not fighting fair. And when we do see justice and fairness as clearly favoring one side of a fight, we’ll want to aid that side, make justice happen, and then [end](consider-reparations) the fight.
 
-## [Exclusion As A Substitute For Norms, Law, & Governance](#table-of-contents)
+<h3 id="exclusion-as-a-substitute-for-norms-law-governance"> [Exclusion As A Substitute For Norms, Law, & Governance](#table-of-contents)</h3>
 _Posted on 2017-12-18_
 
 Hell may not be other people, but worry sure is. That is, what we worry most about is what other people might do to us. People at the office, near our home, at the store, on the street, and even at church.
@@ -1156,7 +1156,7 @@ We would call it an outrage if society as a whole excluded them explicitly and f
 
 Consider this [another](prefer-law-to-values) weak argument for relying more on stronger norms, law, and governance. That could let us rely less on exclusion locally. And mix up a bit more.
 
-## [How Idealists Aid Cheaters](#table-of-contents)
+<h3 id="how-idealists-aid-cheaters"> [How Idealists Aid Cheaters](#table-of-contents)</h3>
 _Posted on 2019-08-23_
 
 Humans have [long](hail-christopher-boehm) used norms to great advantage to coordinate behavior. Each norm requires or prohibits certain behavior in certain situations, and the norm system requires that others who notice norm violations call attention to those violations and coordinate to discourage or punish them.
@@ -1179,7 +1179,7 @@ That is, idealists aid cheaters.
 
 <strong>Added 26Aug:</strong> In this post, I intended to <em>define</em> the words “idealist” and “cynic” in terms of how hard or necessary it is to enforce norms. The use of those words has distracted many. Not sure what are better words though.
 
-## [Beware Mob War Strategy](#table-of-contents)
+<h3 id="beware-mob-war-strategy"> [Beware Mob War Strategy](#table-of-contents)</h3>
 _Posted on 2022-09-26_
 
 The game theory is clear: it can be in your interest to make threats that it would not be in your interest to carry out. So you can gain from committing to carrying out such threats. But only if you do it right. Your commitment plan must be simple and clear enough for your audience to see when it applies to them, how it is their interest to go along with it, and that people who look like you to them have in fact been consistently following such a plan.
@@ -1210,7 +1210,7 @@ The possibility of a global nuclear war seems a _very_ big deal. Yes, war seems 
 
 But following the vague war strategy inclinations of our mob-inflamed moral outrage seems a poor substitute for such a good plan. If we have not yet actually found and implemented a good plan, we should deal with a world where we have not made useful commitments. And so make peace, to avoid risking the destructions of war.
 
-## [Automatic Norms](#table-of-contents)
+<h3 id="automatic-norms"> [Automatic Norms](#table-of-contents)</h3>
 _Posted on 2017-12-27_
 
 Some new ideas I want to explain start with a 2000 paper on <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.6275&amp;rep=rep1&amp;type=pdf">Taboo Tradeoffs</a>. (See also <a href="https://www.scientificamerican.com/article/psychology-of-taboo-tradeoff/">newer</a> <a href="https://www.sciencedirect.com/science/article/pii/S1755534517300684">stuff</a>.) So I’ll review that paper in this post, and then I’ll explain my new ideas in the [next post](10-implications-of-automatic-norms).
@@ -1249,7 +1249,7 @@ Apparently the legal principle of “ignorance of the law is no excuse” isn’
 
 If this description is correct, it seems to me to have remarkable implications. Which I’ll discuss in my next post. (Unless of course you figure them all out in the comments now.)
 
-## [10 Implications of Automatic Norms](#table-of-contents)
+<h3 id="10-implications-of-automatic-norms"> [10 Implications of Automatic Norms](#table-of-contents)</h3>
 _Posted on 2017-12-28_
 
 My [last post](automatic-norms) observed that we seem to have a meta-norm that norm application should be automatic and obvious. We are to just know easily and surely which actions violate norms, without needing to reflect on or discuss the matter. We are to presume that framing effects are unimportant, and that everyone agrees on the relevant norms and how they are to be applied. If true, this has many implications:
@@ -1276,7 +1276,7 @@ We must also see ourselves as tolerating a <em>lot</em> of overeager busybodies 
 
 In the next posts: [examples](automatic-norm-examples) of all this, and [life lessons](automatic-norm-lessons) to learn from it.
 
-## [Automatic Norm Lessons](#table-of-contents)
+<h3 id="automatic-norm-lessons"> [Automatic Norm Lessons](#table-of-contents)</h3>
 _Posted on 2017-12-30_
 
 Pity the modern human who wants to be seen as a consistently good person who almost never breaks the rules. For our distant ancestors, this was a feasible goal. Today, not so much.To paraphrase my recent [post](10-implications-of-automatic-norms):
@@ -1290,7 +1290,7 @@ In each area of life, you could try to list many possibly relevant norms. For ea
 
 As a result, instead of just obeying each random rule that pops into your head in each random situation that you encounter, you can actually only follow the norms that you’ve decided are worth the bother. And if variation in norm following is an big part of variation in success, you may succeed substantially more.
 
-## [Automatic Norms in Academia](#table-of-contents)
+<h3 id="automatic-norm-examples"> [Automatic Norms in Academia](#table-of-contents)</h3>
 _Posted on 2017-12-29_
 
 In my career as a researcher and professor, I’ve come across many decisions where my intuition told me that some actions are prohibited by norms. I’ve usually just obeyed these intuitions, and assumed that everyone agrees. However, I only rarely observe what others think regarding the same situations. In these rare cases, I’m often surprised to see that others don’t agree with me.
@@ -1315,7 +1315,7 @@ I illustrate with the following set of questions on which I’ve noticed diverge
 </ol>
 I expect the same holds in most areas of life. Most detailed decisions that people treat as norm-governed have no official rules or judges. Most people decide for themselves without much thought or discussion, assuming incorrectly that relevant norms are obvious enough that everyone else agrees.
 
-## [Plot Holes & Blame Holes](#table-of-contents)
+<h3 id="blame-holes-like-plot-holes"> [Plot Holes & Blame Holes](#table-of-contents)</h3>
 _Posted on 2020-02-22_
 
 We love stories, and the stories we love the most tend to support our cherished norms and morals. But our most popular stories also tend to have many gaping <a href="https://www.digitalspy.com/movies/a803303/the-10-biggest-movie-plot-holes-of-all-time/">plot holes</a>. These are acts which characters could have done instead of what they did do, to better achieve their goals. Not all such holes undermine the morals of these stories, but many do.
@@ -1360,7 +1360,7 @@ In another post soon I hope to say more about the role of, and limits on, simpli
 
 Re my deliberate exposure [proposal](deliberate-exposure-intuition), many endorse a norm that those who propose policies intended to combine good and bad effects should immediately cause themselves to suffer the worst possible bad effects personally, even in the absence of implementing their proposal. Poll majorities, <a href="https://twitter.com/robinhanson/status/1228727166118088705">however</a>, don’t support such norms.
 
-## [Fairy Tales Were Cynical](#table-of-contents)
+<h3 id="fairy-tales-were-cynical"> [Fairy Tales Were Cynical](#table-of-contents)</h3>
 _Posted on 2012-08-25_
 
 A recent <em>New Yorker</em> <a href="http://www.newyorker.com/arts/critics/books/2012/07/23/120723crbo_books_acocella">article</a> on fairy tales fascinated me (quotes below). Apparently the fairy tales once “told at rural firesides” were for adults, full of sex and violence, and cynical – they did not often affirm common ideals. This stands in sharp contrast to most fiction genres today, especially today’s fairy tales targeted at kids. Why were long ago stories so much more cynical? They remind me of some joke genres, like <a href="http://dead-baby-joke.com/">dead baby jokes</a>, and of the crudeness often found off the record in many close social groups.
@@ -1391,7 +1391,7 @@ Marina Warner … says that most modern writers ignore the Grimms’ “historic
 
 The Grimm tales are no different from other art. They merely concretize and then expand our experience of life. The main reason that Zipes likes fairy tales, it seems, is that they provide hope: they tell us that we can create a more just world. The reason that most people value fairy tales, I would say, is that they do not detain us with hope but simply validate what is. Even people who have never known hunger, let alone a murderous stepmother, still have a sense—from dreams, from books, from news broadcasts—of utter blackness, the erasure of safety and comfort and trust. Fairy tales tell us that such knowledge, or fear, is not fantastic but realistic. (<a href="http://www.newyorker.com/arts/critics/books/2012/07/23/120723crbo_books_acocella">more</a>)
 
-## [Why Fiction Lies](#table-of-contents)
+<h3 id="why-fiction-lies"> [Why Fiction Lies](#table-of-contents)</h3>
 _Posted on 2009-01-05_
 
 Most religious activities make a lot of sense, especially in terms of group bonding.  It is religious beliefs that seem the most puzzling.  Many suggest supernatural beliefs are just a side effect of our having a theory of mind, and applying it liberally.  Back in 2001 I read and <a href="http://hanson.gmu.edu/religion.html">reviewed</a> Pascal Boyer’s book <em>Religion Explained</em>.  Boyer noted 1) supernatural concepts tend to violate one ontological assumption each, making them maximally memorable, and 2) supernatural entities tend to know and care about human-socially-relevant info, and to punish humans who are not nice (i.e., cooperative).  I was puzzled that Boyer didn’t explicitly make what seemed to me the obvious suggestion:  we evolved a tendency to accept strange memorable group beliefs to create a high cost of leaving our group, and to show that we expect to be punished if we are not nice.
@@ -1420,7 +1420,7 @@ We don’t believe the stories really happened, but we do tend to believe these 
 
 As with religion, the beliefs of ours that most reassure others are not necessarily the most accurate.  In fiction, relative to reality, people know more why they act and what they want, good and bad personal characteristics correlate more strongly, personal character matters more relative to circumstance or larger social forces, and there are clearer ultimate resolutions to complex events.  What other social lies does fiction tell, and why does it reassure others that we believe them?
 
-## [Biases Of Fiction](#table-of-contents)
+<h3 id="biases-of-fiction"> [Biases Of Fiction](#table-of-contents)</h3>
 _Posted on 2012-12-05_
 
 <a href="http://www.scribd.com/doc/7391279/38-Most-Common-Fiction-Writing-Mistakes">This essay</a>, on “The 38 most common fiction writing mistakes”, offers advice to writers. But the rest of us can also learn useful details on how fiction can bias our thinking. Here are my summary of key ways it says fiction differs from reality (detailed quotes below):
@@ -1468,7 +1468,7 @@ Writers sometimes mess up their dialogue. Sometimes, without realizing it, they 
 
 If you have any doubt that the reader will understand the meaning of what someone in the story says or does, you must work in at once some method of pointing out what you may think is obvious. (<a href="http://www.scribd.com/doc/7391279/38-Most-Common-Fiction-Writing-Mistakes">more</a>; HT Eliezer Yudkowsky)
 
-## [Why We Fight Over Fiction](#table-of-contents)
+<h3 id="why-we-fight-over-fiction"> [Why We Fight Over Fiction](#table-of-contents)</h3>
 _Posted on 2020-11-29_
 
 We tell stories with language, and so prefer to tell the kind of stories that ordinary language can describe well.
@@ -1503,7 +1503,7 @@ This helps to explain why we invest so much time and energy into fiction, far mo
 
 (This post is an elaboration of <a href="https://twitter.com/robinhanson/status/1332846381783011333">this</a> Twitter thread.)
 
-## [Stories Are Like Religion](#table-of-contents)
+<h3 id="stories-are-like-religion"> [Stories Are Like Religion](#table-of-contents)</h3>
 _Posted on 2012-05-08_
 
 Small children (age 4-6) who were exposed to a large number of children's books and films had a significantly stronger ability to read the mental and emotional states of other people. ... The more absorbed subjects were in the story, the more empathy they felt, and the more empathy they felt, the more likely the subjects were to help when the experimenter "accidentally" dropped a handful of pens… Reading narrative fiction … fosters empathic growth and prosocial behavior. …
@@ -1523,7 +1523,7 @@ Thus in equilibrium, people are encouraged to consume stories, and to deludedly 
 A few days ago I [asked](what-use-far-truth) why not become religious, if it will give you a better life, even if the evidence for religious beliefs is weak? Commenters eagerly declared their love of truth. Today I’ll ask: if you give up the benefits of religion, because you love far truth, why not also give up stories, to gain even more far truth? Alas, I expect that few who claim to give up religion because they love truth will also give up stories for the same reason. Why?
 One obvious explanation: many of you live in subcultures where being religious is low status, but loving stories is high status. Maybe you care a lot less about far truth than you do about status.
 
-## [More Stories As Religion](#table-of-contents)
+<h3 id="more-stories-as-religion"> [More Stories As Religion](#table-of-contents)</h3>
 _Posted on 2014-07-14_
 
 Most people who say they are atheist or agnostic still believe in supernatural powers:
@@ -1547,7 +1547,7 @@ This process is so well-established in narrative creation that the literati have
 
 While some bleak stories are well-received by critics, they rarely win mass popularity among readers or moviegoers. Stories without the appropriate outcome mechanism feel incomplete. The purveyor of cosmic justice is not just a cast member, but appears to be the hidden heart of the show. (<a href="http://www.science20.com/writer_on_the_edge/blog/scientists_discover_that_atheists_might_not_exist_and_thats_not_a_joke-139982">more</a>)
 
-## [This is the Dream Time](#table-of-contents)
+<h3 id="this-is-the-dream-time"> [This is the Dream Time](#table-of-contents)</h3>
 _Posted on 2009-09-28_
 
 <em>Aboriginals believe in … [a] “dreamtime”, more real than reality itself. Whatever happens in the dreamtime establishes the values, symbols, and laws of Aboriginal society. … [It] is also often used to refer to an individual’s or group’s set of beliefs or spirituality. … It is a complex network of knowledge, faith, and practices that derive from stories of creation. </em><em> </em> <a href="http://en.wikipedia.org/wiki/Dreamtime">Wikipedia</a>.
@@ -1579,7 +1579,7 @@ Perhaps most important, our descendants may remember how history hung by a preca
 
 Our dreamtime will be a time of legend, a favorite setting for grand fiction, when low-delusion heroes and the strange rich clowns around them could most plausibly have changed the course of history.  Perhaps most dramatic will be tragedies about dreamtime advocates who could foresee and were horrified by the coming slow stable adaptive eons, and tried passionately, but unsuccessfully, to prevent them.
 
-## [DreamTime](#table-of-contents)
+<h3 id="dreamtime"> [DreamTime](#table-of-contents)</h3>
 _Posted on 2010-06-05_
 
 The most common voluntary activity is not eating, drinking alcohol, or taking drugs. It is not socializing with friends, participating in sports, or relaxing with the family. While people sometimes describe sex as their most pleasurable act, time-management studies find that the average American adult devotes just four minutes per day to sex.
@@ -1600,7 +1600,7 @@ Yes modern stories and art are more enticing than were those of our distant fora
 
 Modern humans often prefer to believe that the activities which they most treasure have no evolutionary function – that they were accidents.  This attitude helps them stay blind to those functions, awareness of which would make their treasured activities seem less noble.
 
-## [Dreamtime Social Games](#table-of-contents)
+<h3 id="dreamtime-games"> [Dreamtime Social Games](#table-of-contents)</h3>
 _Posted on 2019-09-27_
 
 Ten years ago, I posted one of my most popular essays: “[This is the Dreamtime](this-is-the-dream-time).” In it, I argued that, because we are rich,
@@ -1633,7 +1633,7 @@ Paying more for results would feel to most people like having to invite less sua
 Of course our society is full of social situations where practical people get enough rewards to keep them doing practical things. So that the world actually works. People sometimes try to kill such things, but then they suffer badly and learn to stop. But most folks who express interest in social reforms seem to care more about projecting their grand hopes and ideals, relative to making stuff work better. Strong emotional support for efficiency-driven reform must come from those who have deeply felt the sting of inefficiency. Perhaps regarding [crime](who-vouches-for-you)?
 Ordinary human intuitions work well for playing the usual social status games. You can just rely on standard intuitions re who you like and are impressed by, and who you should say what to. In contrast, figuring out how to actually and effectively pay for results is far more complex, and depends more on the details of your world. So good solutions there are unlikely to be well described by simple slogans, and are not optimized for showing off one’s good values. Which, alas, seems another big obstacle to creating better institutions.
 
-## [We Moderns Are Status-Drunk](#table-of-contents)
+<h3 id="our-big-wealth-status-mistake"> [We Moderns Are Status-Drunk](#table-of-contents)</h3>
 _Posted on 2021-06-27_
 
 Twelve years ago I [posted](this-is-the-dream-time) on how our era is a rare unique “dreamtime” of fast growth, wide cultural integration, and delusional beliefs. But I think I missed a big reason why we have the delusions we do: <em>as we get rich, we each increasingly over-estimate our relative social status</em>. Let me explain.
@@ -1677,7 +1677,7 @@ Science fiction often depicts alien worlds with very advanced technology, and ye
 Early in the industrial era many expressed great [fears](the-industrial-revolution-continues) for where it might go, and while those fears seem to have been overblown, this analysis suggests that they weren’t crazy. A more ancient-style industrial era would have had more violence and war, shorter lives, more work and less emphasis on variety in leisure, and thus more regimentation of leisure as well as work. There’d also be less democracy and politics, and less obsession with social media. A dramatically different world that might have been, and may well have actually existed in alien histories.
 <strong>Added 28Jun:</strong> During the forager era, humans had strong direct contact with everyone in their band, and so had relatively clear signals about their status relative to each such person. Which easily added up to one’s relative status overall. So it may have been the introduction of larger communities (~1000) in the farming era that created a need for ways to estimate one’s status relative to people with which one did not have much contact. That is where it would have been handy to be able to just look at yourself to infer your relative status. Looking at your personal wealth would have worked well then.
 
-## [Earth: A Status Report](#table-of-contents)
+<h3 id="earth-a-status-report"> [Earth: A Status Report](#table-of-contents)</h3>
 _Posted on 2023-01-02_
 
 In a universe that is (so far) almost entirely dead, we find ourselves to be on a rare planet full not only of life, but now also of human-level intelligent self-aware creatures. This makes our planet a roughly a once-per-million-galaxy rarity, and if we ever get [grabby](http://grabbyaliens.com/) we can expect to meet other grabby aliens in roughly a billion years.
@@ -1742,7 +1742,7 @@ And how do you get people to try smaller versions? Dare them, inspire them, lead
 
 **Added 5Jan:** While I was presuming that Alexander had intended substantial content to his claims about Moloch, many are saying no, he really just mean to say “bad equilibria are bad”. Which is just a mood well-expressed, but doesn’t remotely support the AI god strategy.
 
-## [On Teen Angst](#table-of-contents)
+<h3 id="on-teen-angst"> [On Teen Angst](#table-of-contents)</h3>
 _Posted on 2010-06-12_
 
 Two complementary theories of teen angst:
@@ -1781,7 +1781,7 @@ Incorporating the particular flavor of contemporary kid culture. Waking up in a 
 
 <strong>Added 13June:</strong> Reports of teen angst seem more common in industry and among farmer aristocrats than elsewhere.  This could be because such folks are more articulate, and have high enough status to complain. If not, this fact seems to favor the second of the two explanations I offered above.
 
-## [Prediction Markets “Fail” To Moloch](#table-of-contents)
+<h3 id="prediction-markets-fail-to-moloch"> [Prediction Markets “Fail” To Moloch](#table-of-contents)</h3>
 _Posted on 2012-07-19_
 
 What is new about prediction markets? To many, the key new idea is “crowd-sourcing”, which to many means that if you can “gamify” your problem enough, hobbyists will solve it for fun, much cheaper than if you had to hire employees. To me the key new idea is instead the “information prize”, a way to offer to pay others to find the info you want. (If they don’t find, you don’t pay.)
@@ -1830,7 +1830,7 @@ This seems like saying the real promise of democracy is that academics can study
 
 <strong>Added 20July</strong>: Scott Sumner <a href="http://www.themoneyillusion.com/?p=15446">says</a> people similarly say that his NGDP futures proposal “fails” if they don’t come for free.
 
-## [Seeking Robust Credible Expertise Buyers](#table-of-contents)
+<h3 id="seeking-robust-credible-expertise-buyers"> [Seeking Robust Credible Expertise Buyers](#table-of-contents)</h3>
 _Posted on 2020-07-01_
 
 On Jan 19, 2000, I posted <a href="https://extropians.weidai.com/extropians.1Q00/0991.html">an email</a> to the Extropians mailing list, giving the first public mention of the futarchy idea. (I also have a detailed PPT on the idea dated June 22, 2000, and the first <a href="http://hanson.gmu.edu/futarchy2000.pdf">pdf paper</a> I posted is dated “July 2000.”) So the general idea is just over two decades old now.
@@ -1878,7 +1878,7 @@ Yes, this fire-the-CEO project faces substantial legal obstacles if anyone is al
 
 Of course I can get excited by a great many other project concepts; I’ve posted on many here over the years. But to get excited about an info market concept, I need to at least hear about the intended info buyers willing to pay to get bias-robust widely-credible expertise. A mere project to develop software, or even to collect a regular set of users, not so much.
 
-## [Prediction Markets Need Trial and Error](#table-of-contents)
+<h3 id="prediction-markets-need-experimentation"> [Prediction Markets Need Trial and Error](#table-of-contents)</h3>
 _Posted on 2022-05-15_
 
 We economists have a pretty strong consensus on a few key points: 1) innovation is the main cause of long-term economic growth, 2) social institutions are a key changeable determinant of social outcomes, and 3) inducing the collection and aggregation of info is one of the key functions of social institutions. In addition, better institutional-methods for collecting and aggregating info (ICAI) could help with the key meta-problems of making all other important choices, including the choice of our other institutions, especially institutions to promote innovation. Together all these points suggest that one of the best ways that we today could help the future is to innovate better ICAI.
@@ -1901,7 +1901,7 @@ Ideally those who oversee this process would be flexible, willing and able as ne
 
 This is my best guess for the most socially valuable way to spend ~<$1M. Prediction markets offer enormous promise to realize vast social value, but it seems that promise will remain only potential until someone undertakes the small-scale experiments needed to find the messy details to match its elegant ideas. Will that be you?
 
-## [New-Hire Prediction Markets](#table-of-contents)
+<h3 id="new-hire-prediction-markets"> [New-Hire Prediction Markets](#table-of-contents)</h3>
 _Posted on 2022-05-16_
 
 In my [last post](https://www.overcomingbias.com/2022/05/prediction-markets-need-experimentation.html), I suggested that the most promising place to test and develop prediction markets is this: get ordinary firms to pay for mechanisms that induce their associates to advise their key decisions. I argued that what we need most is a regime of flexible trial and error, searching in the space of topics, participants, incentives, etc. for approaches that can add value here while avoiding the political disruptions that have plagued previous trials.
@@ -1919,7 +1919,7 @@ Even so, the value here seems so large as to make it well worth trying to overco
 
 Yes, this is related to my proposal to use prediction markets to fire CEOs. But that’s about firing, and this is about hiring. And while each CEO choice is very valuable, there is far more total value encompassed in all the lower personnel choices.
 
-## [Shoulda-Listened Futures](#table-of-contents)
+<h3 id="shoulda-listened-futures"> [Shoulda-Listened Futures](#table-of-contents)</h3>
 _Posted on 2021-04-27_
 
 Over the decades I have written many times on how prediction markets might help the intellectual world. But usually my pitch has been to those who want to get a better actionable info out of intellectuals, or to help the world to make better intellectual progress in the long run. Problem is, such customers seem pretty scarce. So in this post I want to outline an idea that is a bit closer to a business proposal, in that I can better identify concrete customers who might pay for it.
@@ -1952,7 +1952,7 @@ This whole shoulda-listened-futures approach could or course also be applied to 
 
 <strong>Added 7am 28Apr:</strong> On average more assets will be available to pay for future evaluations if the fees paid are invested in risky assets. So instead of promising a particular percentage chance of evaluation, it may make more sense to specify how fees will be invested, set the (real) amount to be spent on each evaluation, and then promise that the chance of evaluation for each work will be set by the investment return relative to the initial fee paid. Yes that induces more evaluations in state of the world where investments do better, but customers are already accepting a big chance that their work will never be directly evaluated.
 
-## [Brand Truth Narrowly](#table-of-contents)
+<h3 id="brand-truth-narrowly"> [Brand Truth Narrowly](#table-of-contents)</h3>
 _Posted on 2022-07-07_
 
 _McDonalds_ is a famous food brand. Not everyone likes what they sell, but many do, and under this brand they can reliably find a kind of food they like at a predictable price which is below their value.
@@ -1981,7 +1981,7 @@ Such brands would [invest](https://www.overcomingbias.com/2022/05/prediction-mar
 
 But this is the work that needs to happen to create narrow-enough truth brands to be useful. Don’t try to sell _Capitalist Food_, but instead create your version of _McDonalds_ in the truth space. Find the particular kinds of truths whose value of use is plausibly more than its cost of production, learn how to increase value and lower costs in that particular area, and then prove your learning to potential customers via a statistically-validated track record.
 
-## [Fixing Academia Via Prediction Markets](#table-of-contents)
+<h3 id="how-to-reform-academia-with-prediction-markets"> [Fixing Academia Via Prediction Markets](#table-of-contents)</h3>
 _Posted on 2014-05-05_
 
 When I first got into prediction markets twenty five years ago, I called them “idea futures”, and I focused on using them to reform how we deal with controversies in science and academia (see <a href="http://hanson.gmu.edu/gamble.html">here</a>, <a href="http://hanson.gmu.edu/ifextropy.pdf">here</a>, <a href="http://hanson.gmu.edu/infoprize.html">here</a>, <a href="http://hanson.gmu.edu/ifexper.html">here</a>). Lately I’ve focused on what I see as the much higher value application of advising decisions and reforming governance (see <a href="http://hanson.gmu.edu/decisionmarkets.pdf">here</a>, <a href="http://hanson.gmu.edu/impolite.pdf">here</a>, [here](if-i-had-a-mill), <a href="http://hanson.gmu.edu/futarchy.html">here</a>). I’ve also talked a lot lately about what I see as the main social functions of academia (see [here](impressive-power), [here](academic-credit-for-blogs), [here](who-wants-unbiased-journals), [here](academias-function)). Since prediction markets don’t much help to achieve these functions, I’m not optimistic about the demand for using prediction markets to reform academia.
@@ -2027,7 +2027,7 @@ How are the actual experiments conducted? … Having any strong opinion on the i
 
 <p style="padding-left: 30px;">The consultant … decides upon an experimental draft and publishes it in a journal. … It is the exact published paper that will appear in the journal when the experiment is over, except that all numbers in the results section have been replaced by a question mark. … First, investors get one final chance to sell their bets or bow out of the experiment without losses. … This decreases the amount of money available for the experiment. That comes out of the consultant scientist’s salary, giving her an incentive to make as few people bow out as possible. … Second, everyone in the field is asked to give a statement (and make a token bet) on the results. This is the most important part. .. When the draft is published, if you think there are flaws in the protocol, you speak then or forever hold your peace. ([more](hail-scott-siskind))
 
-## [Intellectual Prestige Futures](#table-of-contents)
+<h3 id="intellectual-prestige-futures"> [Intellectual Prestige Futures](#table-of-contents)</h3>
 _Posted on 2022-04-16_
 
 As there’s been an uptick of interest in prediction markets lately, in the next few posts I will give updated versions of some of my favorite prediction market project proposals. I don’t own these ideas, and I’d be happy for anyone to pursue any of them, with or without my help. And as my [first](http://hanson.gmu.edu/gamble.html) reason to consider prediction markets was to reform academia, let’s start with that.
@@ -2056,7 +2056,7 @@ To pursue this project concept, a good first step would be to fund teams of hist
 
 With such methods in hand, we could with more confidence set up markets to forecast the impact of particular current intellectuals and their works. We’d probably want to start with particular academic fields, and then use success there to persuade other fields to follow their example. This seems easier the higher the prestige of the initial academic fields, and the more open are they all to using new methods.
 
-## [Academic Stats Prediction Markets](#table-of-contents)
+<h3 id="academic-stats-prediction-markets"> [Academic Stats Prediction Markets](#table-of-contents)</h3>
 _Posted on 2014-03-20_
 
 In a column, Andrew Gelman and Eric Loken <a href="http://www.stat.columbia.edu/~gelman/research/published/ChanceEthics10.pdf">note</a> that academia has a problem:
@@ -2103,7 +2103,7 @@ That said, scientific prediction markets could be a step forward, just because i
 
 On that, we can mostly agree.
 
-## [How To Fund Prestige Science](#table-of-contents)
+<h3 id="how-to-fund-prestige-science"> [How To Fund Prestige Science](#table-of-contents)</h3>
 _Posted on 2018-11-10_
 
 How can we best promote scientific research? (I’ll use “science” broadly in this post.) In the usual formulation of the problem, we have money and status that we could distribute, and they have time and ability that they might apply. They know more than we do, but we aren’t sure who is how good, and they may care more about money and status than about achieving useful research. So we can’t just give things to anyone who claims they would use it to do useful science. What can we do? We actually have many options.<span id="more-31927"></span>
@@ -2149,7 +2149,7 @@ Okay, I’ve outlined a pretty grand vision here. What needs to happen next to e
 
 <strong>Added 13Dec:</strong> I discuss more why this is feasible [here](can-foundational-physics-be-saved).
 
-## [Medical Doubts OpEd](#table-of-contents)
+<h3 id="medical-doubts-oped"> [Medical Doubts OpEd](#table-of-contents)</h3>
 _Posted on 2022-01-21_
 
 <em>An editor asked me to write this OpEd, but then he never responded when I gave it to hm. So I submitted it to several other editors, but now I’m out of contacts to try. So I’m giving up and posting this here:</em><span id="more-33054"></span>
@@ -2180,7 +2180,7 @@ Bottom line: we spend 20% of G.D.P. on medicine, most people credit it for their
 
 It seems we have three options: we can stick our head in the sand and ignore this unwelcome news, we can accept the difficult truth that medicine just isn’t that useful, or we can hope there’s some mistake here and check again. A mere 0.1% of U.S. annual medical spending, or $4.2 billion, could fund a far larger experiment, and hopefully settle the matter. What do you choose?
 
-## [Medical Market Failures](#table-of-contents)
+<h3 id="medical-market-failures"> [Medical Market Failures](#table-of-contents)</h3>
 _Posted on 2009-07-21_
 
 Academic economists often publish analyses of the consequences of possible policies; in fact, I’d say it is the bread and butter of what economists do.   Such analyses usually rate policies using economist’s standard evaluation criteria: economic efficiency.  When a policy of more government intervention is ranked higher that a policy of less government intervention, that is usually because of an identified “market failure”, i.e., a reason why a low regulation “market” situation would not achieve high economic efficiency.
@@ -2212,7 +2212,7 @@ Let me now try to meet my own standard, by outlining the main possible medical m
 </ol>
 The item here that I take most seriously is leaky info, especially on new procedures, including drugs.  Something like medicine altruism is also a big factor, though I see it as signaling loyalty to locals, and so hurting foreigners.
 
-## [Paternalism Is About Status](#table-of-contents)
+<h3 id="explaining-paternalism"> [Paternalism Is About Status](#table-of-contents)</h3>
 _Posted on 2019-08-11_
 
 > … children, whom he finds delightful and remarkably self-sufficient from the age of 4. He chalks this up to the fact that they are constantly lied to, can go anywhere and in their first years of life are given pretty much anything they please. If the baby wants the butcher knife, the baby gets the butcher knife. This novel approach may not sound like appropriate parenting, but Kulick observes that the children acquire their self-sufficiency by learning to seek out their own answers and by carefully navigating their surroundings at an early age. … the only villagers whom he’s ever seen beat their children are the ones who left to attend Catholic school. (<a href="https://www.washingtonpost.com/outlook/as-a-language-dies-who-will-mourn-should-anyone/2019/08/08/82758330-9ccc-11e9-9ed4-c9089972ad5a_story.html">more</a>)
@@ -2259,7 +2259,7 @@ Note that paternalism illustrates the complex relation between prestige and domi
 
 <strong>Added 23Sep:</strong> See also [this](who-vouches-for-you).
 
-## [Rulesy Folks Push Paternalism](#table-of-contents)
+<h3 id="rulesy-folks-push-paternalism"> [Rulesy Folks Push Paternalism](#table-of-contents)</h3>
 _Posted on 2020-09-30_
 
 > “The Tudor landowning justice of the peace (J.P.) was the greatest of of paternalists, rivaled only by the Tudor judges and privy councilors who who controlled the J.P.s. … They wanted to regulate the prices of bread, beer, and wool, the games one played, the amount one drank, the nature of one’s apprenticeship, and the clothes one wore. They arrested drunkards, fined those who did not attend church, and penalized the adulterous. …<span class="Apple-converted-space">  </span>a paternal state … only the 20th century has come to eclipse it” (<a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=Kj-TDAAAQBAJ">more</a>)
@@ -2300,7 +2300,7 @@ And I’m not sure exactly how, but I suspect that this process is mutually supp
 
 > To the extent that there are rules, there seems to be a preference for authorizing some people to have discretion to make arbitrary choices, regarding which they are not held strongly to account. … Most people mainly favor discretion … to project to associates an image of being the sort of person who is confidently supports the elites who have discretion, and who expects in general to benefit from their discretion. … The sort of people who are eager to have a fair neutral objective decision-making process tend to be losers who don’t expect to be able to work the informal system of favors well. ([More](simplerules))
 
-## [Universal Basic Dorms](#table-of-contents)
+<h3 id="universal-basic-dorms"> [Universal Basic Dorms](#table-of-contents)</h3>
 _Posted on 2020-11-11_
 
 Poor people have too little money. So why don’t we just give them more money, instead of giving them many specific things? The main theory in the literature is [paternalism](rulesy-folks-push-paternalism):
@@ -2346,7 +2346,7 @@ History seems to suggest that direct welfare can often be provided more cheaply 
 <strong>Crime</strong> – My understanding is that crime is the other big thing that tended to go very wrong with public housing, in addition to mismanagement. So things might go very wrong if dorms were not allowed to reject residents they deem too likely to cause problems. In addition, things would probably go even better with a crime [voucher](who-vouches-for-you) system. Offer each resident a budget to pay a voucher to cover all the crime they may commit as a resident. If they can’t get a voucher to agree at that price, no matter what the other contract terms, such a resident does not qualify for dorm living. This might be a good test environment for a crime voucher system.
 And that’s my proposal. Offer to pay dorms per resident who stays there, with rules to encourage less-varied more-standard dorm goods which achieve scale economies. Residents would then get more direct welfare, even if they’d gain less status and send less attractive signals. That lower status should make the rest of us more willing to increase dorm budgets well over the cash budget we might offer the poor to live outside dorms.
 
-## [Elites Must Rule](#table-of-contents)
+<h3 id="elites-must-rule"> [Elites Must Rule](#table-of-contents)</h3>
 _Posted on 2022-12-24_
 
 While I’ve spent much of my life doing institution/mechanism design, I’ve only lately come to see that, at least on prestigious topics, most people want relevant institutions to take the following ideal form:
@@ -2371,7 +2371,7 @@ Wariness of many of my other institution ideas, such as [tax career agents](http
 
 While I will continue to try to persuade people to weaken this constraint, and to consider institutions that rely less on our just trusting prestigious elites, I will now also try to take this seriously as a design constraint, and design institutions that conform better to the ideal form described above. I’ll start in my [next post](https://www.overcomingbias.com/2022/12/status-app-concept.html).
 
-## [Status App Concept](#table-of-contents)
+<h3 id="status-app-concept"> [Status App Concept](#table-of-contents)</h3>
 _Posted on 2022-12-25_
 
 In my [last post](https://www.overcomingbias.com/2022/12/elites-must-rule.html) I suggested that we prefer institutions of this form:
@@ -2422,7 +2422,7 @@ An _eighth_ issue is how to merge different kinds of status bits. That is, if X 
 
 I’ll add more issues here as I think of them.
 
-## [Our Prestige Obsession](#table-of-contents)
+<h3 id="our-prestige-obsession"> [Our Prestige Obsession](#table-of-contents)</h3>
 _Posted on 2019-06-07_
 
 Long ago our distant ancestors lived through both good times and bad. In bad times, they did their best to survive, while in good times they asked themselves, “What can I invest in now to help me in coming bad times?” The obvious answer was: good relations and reputations. So they had kids, worked to raise their personal status, and worked to collect and maintain good allies.
@@ -2461,7 +2461,7 @@ Note that my story is somewhat in conflict with the usual “skill-biased techni
 
 <strong>Added 12Jun:</strong> This post inspired by reading & discussing <em><a href="https://www.mercatus.org/system/files/helland-tabarrok_why-are-the-prices-so-damn-high_v1.pdf">Why Are the Prices So Damn High?</a></em>
 
-## [Yay Stability Rents](#table-of-contents)
+<h3 id="for-stability-rents"> [Yay Stability Rents](#table-of-contents)</h3>
 _Posted on 2017-10-20_
 
 Six years ago [I](office-by-combo-auction) [posted](city-by-combo-auction) [on](em-cities-by-combo-auction) the idea of using combinatorial auctions as a substitute for zoning. Since then, news on how badly zoning has been messing up our economy has only gotten worse. I included the zoning combo auction idea in my book <a href="http://ageofem.com"><em>The Age of Em</em></a>, I’ve continued to think about the idea, and last week I talked about it to several LA-based experts in combinatorial auctions.
@@ -2525,7 +2525,7 @@ As a result, owners are induced to limit how far they set prices below their act
 
 Overall I find this proposal quite promising, though still underspecified. Someone really needs to work out what sort of blockchain and IOT arrangements might actually be workable here. I’d also like to see something better for dealing with asymmetric info on property features than the inspection proposal given. And of course we should do lab experiments and field trials before we actually adopted such property rules on a large scale.
 
-## [Conditional Harberger Tax Games](#table-of-contents)
+<h3 id="conditional-harberger-tax-games"> [Conditional Harberger Tax Games](#table-of-contents)</h3>
 _Posted on 2019-02-11_
 
 > Baron Georges-Eugène Haussmann … transformed Paris with dazzling avenues, parks and other lasting renovations between 1853 and 1870. … Haussmann… resolved early on to pay generous compensation to [Paris] property owners, and he did. … [He] hoped to repay the larger loans he obtained from the private sector by capturing some of the increased value of properties lining along the roads he built. … [He] did confiscate properties on both sides of his new thoroughfares, and he had their edifices rebuilt. … Council of State … forced him to return these beautifully renovated properties to their original owners, who thus captured all of their increased value. (<a href="https://www.wsj.com/articles/city-of-light-review-the-man-who-lit-up-paris-11549031581">more</a>)
@@ -2574,7 +2574,7 @@ Note that two key factors are likely to increase the spread between declared and
 
 <strong>Added 22Feb</strong>: In the comments, Kieran Latty [points out](conditional-harberger-tax-games) that people may prefer a reframing of Harberger taxes, wherein owners are supposed to state their “honest value” of the property as D, and then the legally enforced sale prices is 20% above D, and we raise the tax rate by 20% as well. As this is mathematically equivalent, I have no objection.<span class="Apple-converted-space"> </span>
 
-## [Reliable Private-Enough Physical Identity](#table-of-contents)
+<h3 id="reliable-private-human-identity"> [Reliable Private-Enough Physical Identity](#table-of-contents)</h3>
 _Posted on 2020-12-14_
 
 > “Your papers, please” (or “Papers, please”) is an expression or trope associated with police state functionaries, allegedly popularized in Hollywood movies featuring Nazi Party officials demanding identification from citizens during random stops or at checkpoints. It is a cultural metaphor for life in a police state. (<a href="https://en.wikipedia.org/wiki/Your_papers,_please">More</a>)
@@ -2653,7 +2653,7 @@ Such trails could probably be identified anyway with sufficient shared other sur
 
 So in sum, if we don’t want the expensive unreliable unfair identity system that will result accidentally from falling costs of biometrics, we should consider creating a deliberate system of visible registered identifiers on humans. Such a system might still protect a lot of privacy, when that’s otherwise possible, while achieving most of the gains that identity systems have long provided for cars, planes, pets, etc.
 
-## [Freedom Isn’t Free](#table-of-contents)
+<h3 id="freedom-isnt-free"> [Freedom Isn’t Free](#table-of-contents)</h3>
 _Posted on 2019-05-05_
 
 > The concept of a right to health has been enumerated in international agreements which include the Universal Declaration of Human Rights, International Covenant on Economic, Social and Cultural Rights, and the Convention on the Rights of Persons with Disabilities. … equitable dissemination of medical knowledge and its benefits; and government-provided social measures to ensure adequate health. …
@@ -2706,7 +2706,7 @@ What if you felt bad when you saw someone choose fewer civil rights and libertie
 
 <strong>Added 5Aug:</strong> Here is <a href="http://hanson.gmu.edu/crime.pdf">pdf</a> of slides for talk I gave.
 
-## [Quality Regs Say ‘High Is Good’](#table-of-contents)
+<h3 id="quality-regs-say-high-is-good"> [Quality Regs Say ‘High Is Good’](#table-of-contents)</h3>
 _Posted on 2019-09-19_
 
 > 95% think doctors should be licensed. … 96% oppose legalizing crystal meth. (<a href="https://fivethirtyeight.com/features/how-to-win-an-election/">more</a>)
@@ -2765,7 +2765,7 @@ While all of the explanations that I’ve considered above have some place in th
 
 <strong>Added 21Sep:</strong> An obvious implication if this theory is that we’d be better off without min quality regs. While there are some products & services where low classes would do better to copy elite choices, in most areas the different choices are better explained as reasonable adaptation to different contexts.
 
-## [Socialism: A Gift You’d Exchange?](#table-of-contents)
+<h3 id="socialism-a-gift-youd-exchange"> [Socialism: A Gift You’d Exchange?](#table-of-contents)</h3>
 _Posted on 2020-10-14_
 
 After reading and reviewing a book [by](socialism-via-futarchy) a socialism critic, I then [did](the-socialist-manifesto) a book by an advocate. Then some told me “No, here is the advocate book you should have read.” I tried one of them: Nathan Robinson’s <a href="https://us.macmillan.com/books/9781250200877"><em>Why You Should Be a Socialist</em></a>, said to be “A primer on Democratic Socialism for those who are extremely skeptical of it.”
@@ -2817,7 +2817,7 @@ One last thought. I worry that many of you will get stuck on the issue of it bei
 
 Let us say that a policy change passes the “negative cash gift test” if there is no cash gift plan that everyone prefers to it, and say that a policy passes the “positive cash gift test” if there is a cash gift plan such that everyone prefers the policy to this cash gift plan. In theory, all policies with either pass both tests or neither of them. (Only cash gift plans sit right on the border.) So regarding any one policy you can ask yourself: which looks harder, finding a cash gift plan to beat this policy or finding a cash gift plan that this policy beats? Knowing which of these two tasks looks harder tells you if this policy is efficient, and thus good.
 
-## [Vouch For Pandemic Passports](#table-of-contents)
+<h3 id="vouch-for-pandemic-passports"> [Vouch For Pandemic Passports](#table-of-contents)</h3>
 _Posted on 2020-04-24_
 
 Car pollution is an externality. Via pollution, the behavior of some hurts others, an effect that injurers may not take into account unless encouraged to by norm, contract, liability, or regulation. However, as the pollution from one vehicle mixes with that from many others, liability is poorly suited to discourage this; it is too hard to identify which cars hurt you, and there are too many of them. It seems to work better use regulations regarding car design and maintenance to limit the pollution emitted per mile driven, and to tax those miles driven.
@@ -2857,7 +2857,7 @@ Note that today the most common form of legal liability is actually negligence, 
 
 Note also that none of this requires employers to be liable for their infected employees. Someone who is sued for infecting others may turn around and blame their employer for pushing them into situations that cause them to infect others. Employer-employee contract could usefully address such issues.
 
-## [Can We Tame Political Minds?](#table-of-contents)
+<h3 id="can-we-tame-political-minds"> [Can We Tame Political Minds?](#table-of-contents)</h3>
 _Posted on 2022-02-22_
 
 > Give me a firm spot on which to stand, and I shall move the earth. (<a href="https://en.wikiquote.org/wiki/Archimedes">Archimedes</a>)
@@ -2910,7 +2910,7 @@ Politics is indeed the mind killer. But once we know that, what can we do? War c
 
 While it might never be possible to convince political minds to distrust themselves on facts, relative to speculative markets, this approach has hardly been tried, and seems cheap to try. So, world, why not try it?
 
-## [Consider Reparations](#table-of-contents)
+<h3 id="consider-reparations"> [Consider Reparations](#table-of-contents)</h3>
 _Posted on 2019-03-04_
 
 > First … ally of President Trump’s. “We are in a civil war,” he said. “The suggestion that there's ever going to be civil discourse in this country for the foreseeable future is over. ... It’s going to be total war.” The next day … Trump critic … agreed with him—although she placed the blame squarely on the president. Trump, she said, “greenlit a war in this country around race. (<a href="https://www.washingtonpost.com/politics/in-america-talk-turns-to-something-unspoken-for-150-years-civil-war/2019/02/28/b3733af8-3ae4-11e9-a2cd-307b06d0257b_story.html">more</a>)<span class="Apple-converted-space"> </span>
@@ -2966,7 +2966,7 @@ George Will <a href="https://www.kansascity.com/opinion/opn-columns-blogs/syndic
 
 <strong>Added 10Mar</strong>: A <a href="https://twitter.com/lukefreeman/status/1104618236778291200">Postily poll</a> of 283 finds 28% prefer AA, 36% prefer CR, 36% say IDK. Non-whites like CR more across the board, but even whites favor it 33% to 27%. Masters degrees & higher prefer AA. Democrats prefer AA over CR 45% to 26%. Oddly, all regions but the South preferred AA over CR.
 
-## [Regulating Infinity](#table-of-contents)
+<h3 id="regulating-infinity"> [Regulating Infinity](#table-of-contents)</h3>
 _Posted on 2014-08-17_
 
 As a professor of economics in the GMU Center for the Study of Public Choice, I and my colleagues are well aware of the many long detailed disputes on the proper scope of regulation.
@@ -3030,7 +3030,7 @@ We suggested earlier that machine intelligence workers selected for maximum prod
 
 We have seen that multipolarity, even if it could be achieved in a stable form, would not guarantee an attractive outcome. The original principal– agent problem remains unsolved, and burying it under a new set of problems related to post-transition global coordination failures may only make the situation worse. Let us therefore return to the question of how we could safely keep a single superintelligent AI.
 
-## [Privately Enforced & Punished Crime](#table-of-contents)
+<h3 id="privately-enforced-punished-crime"> [Privately Enforced & Punished Crime](#table-of-contents)</h3>
 _Posted on 2018-01-15_
 
 I’ve been teaching law & economics for many years now, and have slowly settled on the package legal reforms for which I most strongly want to argue. I have chosen a package that seems big enough to inspire excitement and encompass synergies, and yet small enough to allow a compelling analysis of its net benefits.
@@ -3066,7 +3066,7 @@ This system could include redistribution to help poor people with high legal lia
 
 Relative to non-criminal law, we today make it more difficult to obtain convictions in criminal law, such as via juries and higher standards of proof. If this is because we less trust government police and prosecutors not to collude with judges, then we might see this as less of a problem in a more open system of competitive bounty hunters. If so, we could cut juries and lower standards of proof, and then catch more crimes more cheaply. There are also [other](double-or-nothi) [ways](blackmail-enforces-law) we might plausibly lower court costs without much lowering the accuracy of decisions.
 
-## [Fine Grain Futarchy Zoning Via Harberger Taxes](#table-of-contents)
+<h3 id="fine-grain-futarchy-zoning-via-harberger-taxes"> [Fine Grain Futarchy Zoning Via Harberger Taxes](#table-of-contents)</h3>
 _Posted on 2019-01-25_
 
 “<a href="http://hanson.gmu.edu/futarchy.html">Futarchy</a>” is my proposed system of governance which approves a policy change when conditional prediction markets give a higher expected outcome, conditional on that change. In a city setting, one might be tempted to use a futarchy where the promoted outcome is the total property value of all land in and near that city. After all, if people don’t like being in this city, and are free to move elsewhere, city land won’t be worth much; the more attractive a city is as a place to be, the more its property will be worth.
@@ -3114,7 +3114,7 @@ Assuming that there’s a standard delay in transferring property, the moment so
 
 <strong>Added 21Oct2021:</strong> It has been pointed out to me that allowing owners to pay 1% of property value to get it back is at odds with allowing people to buy up big blocks all at once. Right after a big block is purchased, parts of that block could dramatically raise their prices, as a way to threaten to destroy the block. So I think this ability to pay 1% to get your property back should <em>not</em> apply when many properties are purchased at once as part of a block.
 
-## [Fear Made Farmers](#table-of-contents)
+<h3 id="fear-made-farmers"> [Fear Made Farmers](#table-of-contents)</h3>
 _Posted on 2010-10-06_
 
 Farming required huge behavior changes, mostly unnatural to foragers.  A key enabler seems to have been increased self-control to follow social norms.  But what allowed this increased self-control?
@@ -3139,7 +3139,7 @@ Individuals with measurably lower physical sensitivities to sudden noises and th
 
 Bryan reminded he that he <a href="http://econlog.econlib.org/archives/2007/12/the_oldfashione.html">pointed out</a> <a href="http://jonjayray.fortunecity.com/oldfas.html">this essay</a> arguing that “authoritarian personalities” looks more like “old-fashioned personalities”, a fact which emphasizes just how much opinion has moved in a less conservative direction over time.
 
-## [Forage vs Farm Future](#table-of-contents)
+<h3 id="forager-v-farmer-future"> [Forage vs Farm Future](#table-of-contents)</h3>
 _Posted on 2010-10-07_
 
 The two biggest events of last million years, by far, are the transition from foraging to farming and then from farming to industry. Since industry began, humans have changed in many ways, some of which are puzzling, since there hasn’t been time for much genetic selection, and only limited time for cultural selection. Especially puzzling are big changes in our basic attitudes, and big variations in such attitudes between people and nations.
@@ -3154,7 +3154,7 @@ Yet in the long run, if our interactions remain competitive, we shouldn’t expe
 For example, ems, or whole brain emulations, are my best guess for the next big transition on the order of the farming and industry transitions.  Farmer-style stoicism, self-sacrifice, and self-control, detached as needed from farmer specifics like love of land or sexual monogamy, might well be more effective at creating acceptance of em-efficient lifestyles. Religious ems might, for example, better accept being deleted when new more efficient versions of themselves are introduced. “Onward Christian robots” might be the new sensibility. And em’s low incomes might help farmer-style [fear-based](fear-made-farmers) norm-enforcement to gain traction.
 Perhaps you hope that an industry-refashioned forager style might adapt just as well to these new requirements.  But wishing won’t make it so.
 
-## [Two Types of People](#table-of-contents)
+<h3 id="two-types-of-people"> [Two Types of People](#table-of-contents)</h3>
 _Posted on 2010-10-04_
 
 I’m about to describe two types of people, A vs. B.  While reading their descriptions I want you to think about which people around you are more like type A or B.  Also ask yourself:  which type do you respect more?  Which would you rather be?
@@ -3169,7 +3169,7 @@ Type B folks believe more in good and evil, and in powerful gods who enforce soc
 
 Types A and B map reasonably well onto today’s culture wars, with A the modern/liberal and B the traditional/conservative. It maps well to the [rich-poor axis](key-political-data) from the World Value Survey.  But in fact, type A vs. B are actually foragers vs. farmers. [The above summarizes many books and articles I’ve read over the last year.]  Which is my point: I think a lot of today’s political disputes come down to a conflict between farmer and forager ways, with forager ways slowly and steadily winning out since the industrial revolution. It seems we acted like farmers when farming required that, but when richer we feel we can afford to revert to more natural-feeling forager ways. The main exceptions, like school and workplace domination and ranking, are required to generate industry-level wealth. We live a farmer lifestyle when poor, but prefer to buy a forager lifestyle when rich. Why this should be will be the subject of my [next](my-political-hypothesis) few posts.
 
-## [Forager v Farmer, Elaborated](#table-of-contents)
+<h3 id="forager-v-farmer-elaborated"> [Forager v Farmer, Elaborated](#table-of-contents)</h3>
 _Posted on 2017-08-31_
 
 Seven years ago, after a year of reading up on forager lives, I first [started](two-types-of-people) [to](divide-forager-v-farmer) [explore](fear-made-farmers) a forager vs. farmer axis:
@@ -3204,7 +3204,7 @@ I shouldn’t need to say it but I will anyway: it is obvious that a safe playfu
 I’ve [noted before](specific-vs-general-foragers-farmers) that if one frames left attitudes as better when the world is safe, while right attitudes as better when world is harsh, the longer is the timescale on which you evaluate outcomes, the harsher is the world.
 <strong>Added 9Sept:</strong> This post didn’t say much directly about farmers. In the much larger farmer social groups, simple one layer talky collectives were much less feasible. Farmer lives had new dangers of war and disease, and neighboring groups were more threatening. The farmer world more supported property in spouses and material goods and had more social hierarchies, farmer law less relied on a general discussion of each accused, and more reliable food meant there was less call for redistribution. Farmers worked more and had less time for play.  Together, these tended to reduce the scope of safe playful talky collectives, moving society in a rightward direction relative to foragers.
 
-## [Rome As Semi-Foragers](#table-of-contents)
+<h3 id="romans-foreshadow-industry"> [Rome As Semi-Foragers](#table-of-contents)</h3>
 _Posted on 2010-12-28_
 
 It seems that an “almost” industrial revolution happened around 500BC. For example, <a href="http://en.wikipedia.org/wiki/File:World_population_growth_(lin-log_scale).png">this graph</a> of estimated world population shows a population jump then similar to the start of the ~1800 jump.  Also, consider this brief history of the Roman Empire:
@@ -3236,7 +3236,7 @@ The Greeks and Romans became models for Europe when industry made it rich again.
 
 <strong>Added 1Feb:</strong> A <a href="http://dmmsclick.wiley.com/view.asp?m=48f40ro8u75v2ntxm0dk&amp;u=9131279">new study</a> says that in places where marriages are more arranged by parents, there is more mate-guarding. Discouraging alcohol seems a reasonable mate-guarding strategy.
 
-## [Self-Control Is Slavery](#table-of-contents)
+<h3 id="self-control-is-slavery"> [Self-Control Is Slavery](#table-of-contents)</h3>
 _Posted on 2010-06-05_
 
 I’ve been pondering 3 related points.  1) [Self-Control Is Culture-Control](self-control-is-culture-control):
@@ -3267,7 +3267,7 @@ So what made industry workers so much more willing to increase their self-contro
 
 Humans are an increasingly self-domesticated species. Foragers could cooperate in non-kin groups of unprecedented size, farmers could enforce norms to induce many behaviors unnatural for foragers, and the schooled humans of industry would willingly obey like enslaved farmers. Our descendants may evolve even stronger self/culture-control of behavior.
 
-## [School Is To Submit](#table-of-contents)
+<h3 id="school-is-to-submit"> [School Is To Submit](#table-of-contents)</h3>
 _Posted on 2016-04-06_
 
 Most animals in the world can’t be usefully domesticated. This isn’t because we can’t eat their meat, or feed them the food they need. It is because all animals naturally resist being dominated. Only rare social species can let a human sit in the role of dominant pack animal whom they will obey, and only if humans do it just right.
@@ -3299,7 +3299,7 @@ This point of view can help explain how schools could help workers to accept hab
 
 In sum, while students today may mostly use schools to signal smarts, drive, and conformity, we need something else to explain how school displaced early work in this signaling role. One plausible story is that schools habituate students in modern workplace habits while on the surface looking more like prestigious forager teachers than like the dominating bosses that all animals are primed to resist. But this hardly implies that everything today that calls itself a school is equally effective at producing this benefit.
 
-## [Why Grievances Grow](#table-of-contents)
+<h3 id="egalitarian-complaints"> [Why Grievances Grow](#table-of-contents)</h3>
 _Posted on 2019-03-09_
 
 > We have come to call these fields “grievance studies” in shorthand because of their common goal of problematizing aspects of culture in minute detail in order to attempt diagnoses of power imbalances and oppression rooted in identity. (<a href="https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/">more</a>)
@@ -3339,7 +3339,7 @@ What to do about this will have to wait for another post.
 
 <strong>Added 11Mar:</strong> Martin Gurri’s book <a href="https://www.amazon.com/dp/B07J2V3PG4/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"><em>Revolt of the Public</em></a> can be seen as describing a switch to a focus on popular complaints. He describes many new social movements around 2011 that focused on complaining loudly to an enthusiastic public, but which due to egalitarian ideals weren’t interested in or capable of negotiating concrete demands or working within the usual political systems.
 
-## [The World Forager Elite](#table-of-contents)
+<h3 id="the-world-forager-elite"> [The World Forager Elite](#table-of-contents)</h3>
 _Posted on 2020-09-22_
 
 My [last post](elois-ate-your-flying-car) was on <em>Where’s My Flying Car?</em>, which argues that changing US attitudes created a tsunami of reluctance and regulation that killed nuclear power, planes, and ate the future that could have been. This explanation, however, has a problem: if there are many dozens of nations, how can regulation in one nation kill a tech? Why would regulatory choices be so strongly correlated across nations? If nations compete, won’t one nation forgoing a tech advantage make others all the more eager to try it?
@@ -3368,7 +3368,7 @@ Notice that in this kind of world, policy has varied far more across time than a
 
 <strong>Added4p:</strong> As John Nye reminds me, in the early years of a new tech, only a few nations in the world may be able to pursue it. They then set the initial standards of regulation. Later, more nations may be able to participate, but risk-averse regulators may feel shy about defying widely adopted initial standards.
 
-## [The Great Cycle Rule](#table-of-contents)
+<h3 id="the-great-cycle-rule"> [The Great Cycle Rule](#table-of-contents)</h3>
 _Posted on 2017-03-08_
 
 History contains a <em>lot</em> of data, but when it comes to the largest scale patterns, our data is very limited. Even so, I think we’d be crazy not to notice whatever patterns we can find at those largest scales, and ponder them. Yes we can’t be very sure of them, but we surely should not ignore them.
@@ -3384,7 +3384,7 @@ The new pattern I recently noticed is that each of these cycles lasts roughly a 
 
 If a new mode were to follow these patterns, it would appear in the next century, after a transition of ten years or less, and have a doubling time of about a month, a main cycle of about a week, and a typical group size of a trillion. Yes, these are only very rough guesses. But they still seem worth pondering.
 
-## [The Labor-From-Factories Explosion](#table-of-contents)
+<h3 id="the-labor-from-factories-explosion"> [The Labor-From-Factories Explosion](#table-of-contents)</h3>
 _Posted on 2016-05-04_
 
 As I’ve discussed before, including in <a href="http://ageofem.com">my book</a>, the history of humanity so far can be roughly <a href="http://hanson.gmu.edu/longgrow.pdf">summarized</a> as a sequence of three exponential growth modes: foragers with culture started a few million years ago, farming started about ten thousand years ago, and industry starting a few hundred years ago. Doubling times got progressively shorter: a quarter million years, then a millennia, and now fifteen years. Each time the transition lasted less than a previously doubling time, and roughly similar numbers of humans have lived during each era.
@@ -3407,7 +3407,7 @@ Today we can grow physical capital very fast in factories, usually doubling capi
 
 So if it is plausible that artificial intelligence as capable as humans will appear in the next century or so, then we already know what will cause the next great jump to a faster growth mode. <em>Unless</em> of course some other rare powerful feedback loop is unlocked before then. But if an intelligence explosion isn’t  possible until you have machines at least as smart as humans, then that scenario won’t happen until <em>after</em> labor-from-factories. And even then it is far from obvious that feedback can cause one of the few rare big growth rate jumps.
 
-## [Lost Advanced Civilizations](#table-of-contents)
+<h3 id="lost-advanced-civilizations"> [Lost Advanced Civilizations](#table-of-contents)</h3>
 _Posted on 2020-08-18_
 
 Did life on Earth start on Earth, or did it start on Mars and move to Earth? If you frame such panspermia as an “extraordinary claim” for which you demand “extraordinary evidence”, you will of course conclude that this should be treated “skeptically” as unlikely and sloppy unscientific “speculation”. To be disdained and not treated as serious by respectable academics and science journalists. But that’s not really fair.
@@ -3449,7 +3449,7 @@ So, who wants to help set this up?
 
 <strong>Added 9a:</strong> During the classic Egypt era, many monuments were built over and near apparently much older sites with much older monuments built using apparently advanced tech. Many of these older sites have very large tunnel systems, many of which are from being fully explored. That is my best bet re where to look for evidence of lost advanced civs.
 
-## [Try-Try or Try-Once Great Filter?](#table-of-contents)
+<h3 id="try-try-or-try-once-great-filter"> [Try-Try or Try-Once Great Filter?](#table-of-contents)</h3>
 _Posted on 2020-12-03_
 
 [Here’s](new-hard-steps-results) <a href="https://www.liebertpub.com/doi/10.1089/ast.2019.2149">a</a> <a href="http://mason.gmu.edu/~rhanson/greatfilter.html">simple</a> <a href="http://mason.gmu.edu/~rhanson/hardstep.pdf">and</a> pretty standard theory of the origin and history of life and intelligence. Life can exist in a supporting oasis (e.g., Earth’s surface) that has a volume <em>V</em> and metabolism <em>M</em> per unit volume, and which lasts for a time window <em>W</em> between forming and then later ending. This oasis makes discrete “advances” between levels over time, and at any one time the entire oasis is at the same level. For example, an oasis may start at the level of simple dead chemical activity, may later rise to a level that counts as “life”, then rise to a level that includes “intelligence”, and finally to a level where civilization makes a big loud noises that are visible as clearly artificial from far away in the universe.
@@ -3497,7 +3497,7 @@ Well that’s enough for this post, but I expect to have more to say on the subj
 
 <strong>Added 19Jan:</strong> Turns out we <a href="https://arxiv.org/abs/1507.04346">also</a> seem to be in the wrong kind of galaxy; each giant elliptical with a low star formation rate hosts 100-10K times more habitable Earth-like planets, and a million times as many habitable gas giants, than does our Milky Way.
 
-## [Great Filter with Set-Backs, Dead-Ends](#table-of-contents)
+<h3 id="great-filter-steps-with-set-backs-dead-ends"> [Great Filter with Set-Backs, Dead-Ends](#table-of-contents)</h3>
 _Posted on 2022-04-01_
 
 A biological cell becomes cancerous if a certain set of rare mutations all happen in that same cell before its organism dies. This is quite unlikely to happen in any one cell, but a large organism has enough cells to create a substantial chance of cancer appearing somewhere in it before it dies. If the chances of mutations are independent across time, then the durations between the timing of mutations should be roughly equal, and the chance of cancer in an organism rises as a power law in time, with the power equal to the number of required mutations, usually around six.
@@ -3522,7 +3522,7 @@ Their paper only looks at the durations between steps, and doesn’t ask if thes
 
 With a higher power, we will meet grabby aliens sooner, and each such civilization will control fewer (but still many) galaxies. Many graphs showing how our predictions vary with this power parameter can be found in our [grabby aliens](http://grabbyaliens.com/) paper.
 
-## [Seeing ANYTHING Other Than Huge-Civ Is Bad News](#table-of-contents)
+<h3 id="what-shows-smaller-future-filter"> [Seeing ANYTHING Other Than Huge-Civ Is Bad News](#table-of-contents)</h3>
 _Posted on 2021-07-04_
 
 The <a href="http://hanson.gmu.edu/greatfilter.html">great filter</a> is whatever obstacles prevent simple dead matter from evolving into a civilization big and visible on astronomical scales. The fact that we see nothing big and visible in a huge universe says this filter must be large, and a key question is the size of the future filter: how much have we passed and how much remains ahead of us?
@@ -3538,7 +3538,7 @@ Looking out further and in more detail at the universe and still finding it dead
 
 Remember also: the SIA indexical prior (IMHO the reasonable choice) <a href="https://meteuphoric.com/2010/03/23/sia-doomsday-the-filter-is-ahead/">favors</a> <a href="https://arxiv.org/abs/2106.13348">larger</a> future filters. Beware the future filter!
 
-## [Our Level in the Great Filter](#table-of-contents)
+<h3 id="response-to-lineweaver"> [Our Level in the Great Filter](#table-of-contents)</h3>
 _Posted on 2022-07-08_
 
 An exchange between Astrophysicist [Charles Lineweaver](https://www.mso.anu.edu.au/~charley/) and myself:
@@ -3584,7 +3584,7 @@ Sure, we’d define somewhat different OL sets if we added or cut techs from thi
 
 Yes, this way to define OL can let humans pass through OL, while chimps never do. But I just don’t see why that’s a problem. There is in fact a big important difference between what humans and chimps have accomplished, and I’m fine with our OL definition reflecting that.
 
-## [At Least Two Filters](#table-of-contents)
+<h3 id="at-least-two-filters"> [At Least Two Filters](#table-of-contents)</h3>
 _Posted on 2010-11-28_
 
 Where lies the great filter, i.e., the obstacles that make it extremely unlikely that any one chunk of pre-organic matter originates a visibly expanding interstellar civilization? While it seems [unlikely](brain-size-is-not-filter) our ancestors passed through much of a filter in the last half billion years, our descendants may face a big filter in the next few thousand years, and there may have been big filters associated with the origin of life, the spread of life, the invention of complex cells, sexual reproduction, or multicellular life.
@@ -3600,7 +3600,7 @@ So if the idea of just one big filter appeals to your sense of elegance, you’l
 
 If you don’t find that plausible, well then you’ll have to grant there are at least two filters. And if two, why not three? So you must find the possibility of a third filter in our future plausible; beware [future](beware-future-filters) [filters](fertility-the-big-problem).
 
-## [Fertility: The Big Problem](#table-of-contents)
+<h3 id="fertility-the-big-problem"> [Fertility: The Big Problem](#table-of-contents)</h3>
 _Posted on 2010-11-15_
 
 Many folks want to save the world. Especially young, single, energetic folks. Especially if they also get to:
@@ -3655,7 +3655,7 @@ The “window of opportunity” for family policies [to influence fertility] mig
 
 Reher maintained much of the world is now on the cusp of a prolonged period of population decline. The resulting population aging would lead to labor shortages even in developing countries. The result could be an economic disaster. … Santow … sees “nothing terrifying about a drop in the size of Europe’s population. Any decline will take time, and economies will adjust.”
 
-## [Humans Are Early](#table-of-contents)
+<h3 id="humans-are-early"> [Humans Are Early](#table-of-contents)</h3>
 _Posted on 2021-02-03_
 
 Imagine that advanced life like us is terribly rare in the universe. So damn rare that if we had not shown up, then our region of the universe would almost surely have forever remained dead, for eons and eons. In this case, we should still be able to predict <em>when</em> we humans showed up, which happens to be now at 13.8 billion years after the universe began. Because we showed up on a planet near a star, and we know the rate at which our universe has and will make stars, how long those stars will last, and which stars where lived far enough away from frequent sterilizing explosions to have at least a chance at birthing advanced life.
@@ -3671,7 +3671,7 @@ Why have others not reported the puzzle previously? Because they neglected to in
 
 This key fact that humans look early is one that seems best explained by a grabby aliens model. If grabby aliens come and take all the volume, that sets a deadline for when we could arrive, if we were to have a chance of becoming grabby. We are <em>not</em> early relative to that deadline.
 
-## [An Alien War Nightmare](#table-of-contents)
+<h3 id="an-alien-war-nightmare"> [An Alien War Nightmare](#table-of-contents)</h3>
 _Posted on 2022-10-24_
 
 Grabby aliens are advanced civs who change the stuff they touch in big visible ways, and who keep expanding fast until they meet each other. Our [recent analysis](http://grabbyaliens.com/) suggests that they appear at random stars roughly once per million galaxies, and then expand at roughly half the speed of light. Right now, they have filled roughly half of the universe, and if we join them we’ll meet them in roughly a billion years. There may be far more quiet than grabby alien civs out there, but those don’t usually do much or last long, and even the ruins of the nearest are quite far away.
@@ -3700,7 +3700,7 @@ Thus the possibilities of (A) long term civ-level views, (B) cheap fast movement
 
 Also note that at the line-shaped borders where three grabby civs meet, all three might have equal resources. Even so, two of them allying against the third would gain an advantage. And if this were sufficient, they might together advanced into the third region, sharing the gains. After which, each of them might have a geometric advantage, partially encircling the other side where their border bends. The possibility of this ally advantage should induce grabby civs to try to seem more similar to each other, to induce others to ally with them.
 
-## [Non-Grabby Legacies](#table-of-contents)
+<h3 id="non-grabby-legacies"> [Non-Grabby Legacies](#table-of-contents)</h3>
 _Posted on 2021-03-08_
 
 Our descendants will have far more effects on the universe if they become grabby, and most of their expected effects come in that scenario. Even so, as I discussed in my [last post](seti-optimism-is-human-future-pessimism), most see only a small chance for that scenario. So what if we remain a non-grabby civilization? What will be our long-term legacies then?
@@ -3726,7 +3726,7 @@ So is this an exciting legacy to you? A few stories about us that might help som
 
 Such messages would be more credible if they embodied costly signals. So what could a non-grabby alien civ do, and show they did, to convince grabby aliens re their expectations of what will happen when grabby aliens meet?
 
-## [Why We Can’t See Grabby Aliens](#table-of-contents)
+<h3 id="why-we-cant-see-grabby-aliens"> [Why We Can’t See Grabby Aliens](#table-of-contents)</h3>
 _Posted on 2021-01-08_
 
 In [two](how-far-aggressive-aliens) [posts,](how-far-aggressive-aliens-part-2) I recently explained how a simple 3 parameter model of grabby aliens can explain our apparent early arrival in the universe, via a selection effect: we might give rise to a grabby civ, but that had to happen before other grabby civs took over all the volume.
@@ -3760,7 +3760,7 @@ Thus our grabby aliens model can use selection effects to explain not only why w
 
 [](plotS1-logn)
 
-## [Beware General Visible Prey](#table-of-contents)
+<h3 id="beware-general-visible-near-prey"> [Beware General Visible Prey](#table-of-contents)</h3>
 _Posted on 2015-04-19_
 
 Charles Stross <a href="http://www.antipope.org/charlie/blog-static/2015/04/on-the-great-filter-existentia.html">recently</a> on possible future great filters:
@@ -3825,7 +3825,7 @@ But he doesn’t appear to think this relevant for his conclusions. In contrast,
 
 <strong>Added 10a:</strong> Of course the concern isn’t just that some parties would have short term orientations, but that most would pursue short-term predation so vigorously that they force most everyone to put in similar effort levels, even if they take have long-term view. When enemies mass on the border, one might have to turn farmers into soldiers to resist them, even if it is harvest time.
 
-## [If The Future Is Big](#table-of-contents)
+<h3 id="long-term-growth-implications"> [If The Future Is Big](#table-of-contents)</h3>
 _Posted on 2018-08-21_
 
 One way to predict the future is to find patterns in the past, and extend them into the future. And across the very long term history of everything, the one most robust pattern I see is: <em>growth</em>. Biology, and then humanity, has consistently grown in ability, capacity, and influence. Yes, there have been rare periods of widespread decline, but overall in the long run there has been far more growth than decline.<span class="Apple-converted-space"> </span>
@@ -3874,7 +3874,7 @@ Here’s another fanciful example. Today if I sue you today for $10,000, we soon
 
 <strong>In sum</strong>, we expect continued growth to create a big distant future, a future that can influence life today just as a big city in the valley might influence life in nearby mountain village. A big future suggests that we worry about being smashed by a great filter. Big future tech abilities suggest that we could survive current death via cryonics, that we might be today actually be part of a future simulation of history, and that biology as we know it won’t last. A big future is an attractive place to migrate, to influence, and to impress. And a wise knowledgeable future offers many ways to improve current incentives for honesty. Like a big city in the valley below, a big future can matter to us now.
 
-## [UFOs – What The Hell?](#table-of-contents)
+<h3 id="ufos-what-the-hell"> [UFOs – What The Hell?](#table-of-contents)</h3>
 _Posted on 2021-06-24_
 
 <em>(This post is more of an essay, intended to be especially widely accessible.)</em>
@@ -3929,7 +3929,7 @@ And that’s my story. How UFOs as aliens can make sense. Not an inspiring story
 
 <strong>Added 4July:</strong> The many comments on this post are mostly the result of this mention at <a href="https://pjmedia.com/instapundit/459703/">Instapundit</a>.
 
-## [Our Alien Stalkers](#table-of-contents)
+<h3 id="our-alien-stalkers"> [Our Alien Stalkers](#table-of-contents)</h3>
 _Posted on 2023-05-06_
 
 > Sam Quirk was ten years old. While on a field trip, his bus had paused at a rest stop, and Sam was sitting in a bathroom stall. From the next stall over, he heard clearly but quietly, “Sam Quirk, ask your parents about ‘royal propriety’”. By the time he could check the next stall, it was empty. 
@@ -3964,7 +3964,7 @@ We should be quite impressed by the fact that these aliens not only managed to k
 
 Which seems to me much like Sam’s situation. So, do you feel lucky punk?
 
-## [On UFOs-As-Aliens Priors](#table-of-contents)
+<h3 id="on-ufo-as-aliens-priors"> [On UFOs-As-Aliens Priors](#table-of-contents)</h3>
 _Posted on 2021-06-08_
 
 A careful analysis of UFOs should consider <em>lots</em> of data, and consider it in much detail. I oft hear skeptics seek shortcuts, such as by declaring all testimony invalid, or insisting that only some long conjunction of encounter features could be sufficient. But consider a legal accusation of attempted murder. Even though the prior odds that a random  X attempts to kill Y during hour Z is terribly low (<10<sup>-12</sup>), we are still willing to entertain such claims, and we accept personal testimony as an important part of supporting evidence.
@@ -4029,7 +4029,7 @@ Medians of lognormal fits to my recent polls gives these Bayesian estimates re 4
 
 <strong>Added 14Jun:</strong> Thinking through the consequences of the show-but-don’t-talk strategy [suggests](would-ufo-aliens-be-our-gods) that it will work out pretty well for the aliens.
 
-## [UFOs Show Govt. Competence As Either Surprisingly High Or Low](#table-of-contents)
+<h3 id="ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low"> [UFOs Show Govt. Competence As Either Surprisingly High Or Low](#table-of-contents)</h3>
 _Posted on 2021-05-05_
 
 Sometimes I pride myself on my taking an intellectual strategy of tackling neglected important questions. However, one indicator of a topic being neglected is that it seems low status; people who discuss it are ridiculed, and their intellectual ability doubted. Thus my strategy risks lowering my status.
@@ -4082,7 +4082,7 @@ This post is already too long, so I will stop here once I make one last point: (
 In contrast, (Da) seems to require a scenario of remarkable <em>incompetence</em>, [among](explaining-stylized-ufo-facts) the aliens themselves, among our governments, and even among the UFO activists. So which is more likely: surprisingly high government competence, or incompetence?
 <strong>Added 7June:</strong> <a href="https://twitter.com/EricRWeinstein/status/1401372265564889091">This poll</a> agrees with me.
 
-## [My Awkward Inference](#table-of-contents)
+<h3 id="my-awkward-situation"> [My Awkward Inference](#table-of-contents)</h3>
 _Posted on 2023-04-29_
 
 There have been over 100K UFO sightings reported worldwide since 1940. Roughly 5% or so are “strong” events, which seem rather hard to explain due to either many witnesses, especially reliable witnesses, physical evidence, or other factors. Many of these events are also “dramatic”, wherein the UFOs seem to display amazing abilities, ones well beyond those held by any known Earth orgs. I’d guess there are at least a thousand such strong dramatic reported events. 
@@ -4114,7 +4114,7 @@ Note that if the evidence now supports my inference, it probably has done so for
 
 **Added 1p:** I should mention that I’ve also looked at the best evidence offered for angels, ghosts, and fairies, and those just look much worse to me. The best evidence for ball lightning in the field is also pretty bad, even though the usual consensus believes in that due to it being created in the lab.
 
-## [UFO Stylized Social Facts](#table-of-contents)
+<h3 id="social-ufo-stylized-facts"> [UFO Stylized Social Facts](#table-of-contents)</h3>
 _Posted on 2021-03-28_
 
 Even though many or even most UFO sightings are best explained as delusions, hoaxes, and ordinary stuff misunderstood, there appears to be a large remnant (>1000) that are much harder to explain, and which <a href="http://www.cufos.org/FAQ_English_index.html">show</a> consistent <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.555.5611">patterns</a>. Such as ~30-1000 second episodes peaking near ~9pm (<a href="https://journalofscientificexploration.org/index.php/jse/article/view/580">tied</a> to local sideral time), at random spatial locations, of quiet lights or objects in the sky with intelligent purposes and amazing speeds and accelerations. Sometimes confirmed by many people and recorded by many instruments.
@@ -4180,7 +4180,7 @@ And those are the key stylized facts that a social theory of aliens must explain
 
 <strong>Added 31Mar:</strong> My explanation attempt is [here](explaining-stylized-ufo-facts).
 
-## [Explaining Stylized UFO Facts](#table-of-contents)
+<h3 id="explaining-stylized-ufo-facts"> [Explaining Stylized UFO Facts](#table-of-contents)</h3>
 _Posted on 2021-03-30_
 
 In my [last post](social-ufo-stylized-facts) I summarized some key stylized social facts that a theory of UFOs-as-aliens would need to explain:
@@ -4262,7 +4262,7 @@ Note that not all of the elements of the story I’ve just told are strictly nec
 
 Note also that I’ve told this [story](non-ufo-local-alien-clues) [thrice](do-foo-fighters-show-our-snafu-fubar-future) [before](if-aliens-are-near), though this version is more elaborate.
 
-## [Non-UFO Local Alien Clues](#table-of-contents)
+<h3 id="non-ufo-local-alien-clues"> [Non-UFO Local Alien Clues](#table-of-contents)</h3>
 _Posted on 2020-05-09_
 
 > [US] Department of Defense formally released three Navy videos that contain ‘unidentified aerial phenomena.’ … When the videos were published in 2017 and 2018 by <em>The New York Times</em> …, they gave new hope to those looking for signs of extraterrestrial life. … ‘it’s time that we make progress to understand the extraordinary technology being observed during these events.’ (<a href="https://www.nytimes.com/2020/04/28/us/pentagon-ufo-videos.html">More</a>)
@@ -4321,7 +4321,7 @@ Of course even more likely, perhaps, no nearby aliens cause UFOs. But if they do
 
 <strong>Added 5a:</strong> A creative scenario is humans finding & using ancient alien tech. Alas, the prior chances seem quite low that alien tech would be abandoned near us, found, still functional after this long, functional outside supporting resources of their civilization, useable by us, and still kept hidden.
 
-## [UFOs and Status](#table-of-contents)
+<h3 id="ufos-and-status"> [UFOs and Status](#table-of-contents)</h3>
 _Posted on 2021-06-04_
 
 Status seems pretty central to the UFO phenomena.
@@ -4350,7 +4350,7 @@ Status effects might even explain their lack of communication. (If they exist, o
 
 A perhaps related and more ominous possible reason for their lack of communication is that they expect this to lead to us asking them some awkward questions. About our history, their expectations about us, their previous behavior toward us, their future plans regarding us, etc. Often the simplest way to avoid having to answer awkward questions is simply refusing to talk. Maybe how they plan to treat us reflects their view of our relative status, and we might not react well to hearing this.
 
-## [Why Age of Em Will Happen](#table-of-contents)
+<h3 id="why-age-of-em-will-happen"> [Why Age of Em Will Happen](#table-of-contents)</h3>
 _Posted on 2019-07-09_
 
 In some technology competitions, winners dominate strongly. For example, while gravel may cover a lot of roads if we count by surface area, if we weigh by vehicle miles traveled then asphalt strongly dominates as a road material. Also, while some buildings are cooled via fans and very thick walls, the vast majority of buildings in rich and hot places use air-conditioning. In addition, current versions of software systems also tend to dominate over old older versions. (E.g., Windows 10 over Windows 8.)
@@ -4391,7 +4391,7 @@ I now estimate an unconditional 80% chance of it being a useful guide, and so wi
 
 Note that this analysis suggests that while the arrival of ems might cause a relatively sudden and disruptive transition, the improvement of other artificial software would likely be more gradual. While overall rates of growth and change should increase as a larger fraction of the means of production comes to be made in factories, the risk is low of a sudden AI advance relative to that overall rate of change. Those concerned about risks caused by AI changes can more reasonably wait until we see clearer signs of problems.
 
-## [How To Not Die (Soon)](#table-of-contents)
+<h3 id="how-to-not-die-soon"> [How To Not Die (Soon)](#table-of-contents)</h3>
 _Posted on 2020-01-22_
 
 You don’t want to die. If you <a href="https://twitter.com/robinhanson/status/1197182569051303937">heard</a> that an asteroid would soon destroy a vast area around your home, you’d pay great costs to help you and your loved ones try to move. Even if you’d probably fail, even of most of your loved ones might not make it, and even if success meant adapting to a strange world far from home. If that’s not you, then this post isn’t for you.
@@ -4476,7 +4476,7 @@ Look, large surveys [show](today-ems-seem-unnatural) that the main reason people
 
 Whatever reasons you think you have in your head are mainly excuses for these factors. Will you really let yourself die because a purity norm now makes a thing as yet unseen seem unnatural to you?
 
-## [How Does Brain Code Differ?](#table-of-contents)
+<h3 id="how-does-brain-code-differ"> [How Does Brain Code Differ?](#table-of-contents)</h3>
 _Posted on 2019-01-21_
 
 <strong>The Question</strong>
@@ -4561,7 +4561,7 @@ As smaller more focused more modular tasks that change more rapidly are better s
 
 Among the tasks that humans do today, we can also distinguish more vs. less [tangled](a-tangled-task-future) [tasks](connected-tasks-cities-win). Tangled tasks are closer to the more tangled center of a network of which tasks must coordinate with which other tasks. While tasks at higher organization levels do tend to be more tangled, some lower level tasks are also highly tangled. Brains also have advantages in these more tangled tasks, and once they are entrenched in many connected tasks are harder to displace from them.
 
-## [Progeny Probabilities: Souls, Ems, Quantum](#table-of-contents)
+<h3 id="progeny-probs-human-em-quantum"> [Progeny Probabilities: Souls, Ems, Quantum](#table-of-contents)</h3>
 _Posted on 2019-06-02_
 
 Consider three kinds of ancestry trees: 1) souls of some odd human mothers, 2) ems and their copies, and 3) splitting quantum worlds. In each kind of tree, agents can ask themselves, “Which future version of me will I become?”
@@ -4619,7 +4619,7 @@ But even in simple tree models, there is not a fixed total quantity of branches.
 
 It thus seems all the more remarkable that the mysterious Born rule progeny prob for quantum mechanics is so simple and context independent.
 
-## [Em Redistribution](#table-of-contents)
+<h3 id="em-redistribution"> [Em Redistribution](#table-of-contents)</h3>
 _Posted on 2015-07-17_
 
 I’m in the last few weeks of finishing [my book](oxford-to-publish-the-age-of-em) <em>The Age of Em: Work, Love, and Life When Robots Rule The Earth,</em> about social outcomes in a world dominated by brain emulations. As a teaser, let me share some hopefully non-obvious results about redistribution in the em world.
@@ -4641,7 +4641,7 @@ If ordinary humans are included straightforwardly in the redistribution systems 
 
 During the em era, humans typically have industrial era incomes, which are much higher than subsistence level incomes. While many and perhaps most humans may pay to create a few ems, they tend to endow them with much higher than subsistence incomes. In contrast, a small number of successful humans manage to give rise to large em clans, and within these clans most members have near subsistence incomes. Thus transfers based on individual income inequality take from the descendants of less successful humans and give to descendants of more successful humans.
 
-## [A.I. Old-Timers](#table-of-contents)
+<h3 id="roger-shank-ai"> [A.I. Old-Timers](#table-of-contents)</h3>
 _Posted on 2008-05-31_
 
 Artificial Intelligence pioneer Roger Schank at <a href="http://www.edge.org/q2008/q08_7.html#schank">the </a><em><a href="http://www.edge.org/q2008/q08_7.html#schank">Edge</a>:</em>
@@ -4669,7 +4669,7 @@ Nevertheless, the idea that someone will soon write software allowing a single c
 
 <strong>More added:</strong>  I seem to be a lot more interested in the meta issues here than most (as usual).  Eliezer [seems to think](an-ai-new-timer) that when the when young disagree with the old, the young tend to be right, [because](an-ai-new-timer) "most of the Elders here are formidable old warriors with hopelessly obsolete arms and armor."  I’ll bet he doesn’t apply this to people younger than him; adding in other consideration he sees his current age as near best.  And I’ll bet in twenty years his estimate of the optimal age will be twenty years higher.
 
-## [How Lumpy AI Services?](#table-of-contents)
+<h3 id="how-lumpy-ai-services"> [How Lumpy AI Services?](#table-of-contents)</h3>
 _Posted on 2019-02-14_
 
 Long ago people like Marx and Engels predicted that the familiar capitalist economy would naturally lead to the immiseration of workers, huge wealth inequality, and a strong concentration of firms. Each industry would be dominated by a main monopolist, and these monsters would merge into a few big firms that basically run, and ruin, everything. (This is somewhat analogous to common expectations that military conflicts naturally result in one empire ruling the world.)
@@ -4723,7 +4723,7 @@ It seems crazy cultish to me to, when guessing if this bias might be a problem, 
 
 Oh, many people are very impressed that current machine learning (ML) systems seem to have less visible or understandable structure than the prior systems that the’ve replaced. But it seems to me a vast exaggeration to conclude from this that future systems of vastly larger ability and scope will have little internal structure. Even today’s best ML systems have a lot of structure, and systems of much larger scope will need a lot more. Across history we’ve seen many changes in the degree of integration of particular kinds of systems, without such changes saying much about any huge global future integration trend.
 
-## [A History Of Foom](#table-of-contents)
+<h3 id="a-history-of-foom"> [A History Of Foom](#table-of-contents)</h3>
 _Posted on 2013-01-20_
 
 I had occasion recently to review again the causes of the few known historical cases of sudden permanent increases in capacity growth rates in broadly capable systems: humans, farmers, and industry. For each of these transitions, a large number of changes appeared at roughly the same time. The problem is to distinguish the key change that enabled all the other changes.
@@ -4742,7 +4742,7 @@ So far, it seems that the main causes of growth rate increases were better ways 
 
 Whole brain emulations might be seen as allowing mental innovations to be moved more easily, by copying entire minds instead of having one mind train or teach another. Prediction and decision markets might also be seen as better ways to share info about which innovations are likely to be useful where. In what other ways might we dramatically increase our ability to share innovations?
 
-## [I Still Don’t Get Foom](#table-of-contents)
+<h3 id="30855"> [I Still Don’t Get Foom](#table-of-contents)</h3>
 _Posted on 2014-07-24_
 
 Back in 2008 my ex-co-blogger Eliezer Yudkowsky and I discussed his “AI foom” concept, a discussion that we recently spun off into a [book](debate-is-now-book). I’ve heard for a while that Nick Bostrom was working on a book elaborating related ideas, and this week his <a href="http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111"><em>Superintelligence</em></a> was finally available to me to read, via Kindle. I’ve read it now, along with a few dozen reviews I’ve found online. Alas, only the two reviews on <a href="http://www.goodreads.com/book/show/20527133-superintelligence#other_reviews"><em>GoodReads</em></a> even mention the big problem I have with one of his main premises, the same problem I’ve had with Yudkowsky’s views. Bostrom hardly mentions the issue in his 300 pages (he’s focused on control issues).
@@ -4794,7 +4794,7 @@ So, bottom line, much of Nick Bostrom’s book <em>Superintelligence</em> is bas
 <strong>Added 2Sep</strong>: See also related posts after: [Irreducible Detail](limits-on-generality), [Regulating Infinity](regulating-infinity).
 <strong>Added 5Nov</strong>: Let me be clear: Bostrom’s book has much thoughtful analysis of AI foom consequences and policy responses. But aside from mentioning a few factors that might increase or decrease foom chances, Bostrom simply doesn’t given an argument that we should expect foom. Instead, Bostrom just assumes that the reader thinks foom likely enough to be worth his detailed analysis.
 
-## [Foom Justifies AI Risk Efforts Now](#table-of-contents)
+<h3 id="foom-justifies-ai-risk-efforts-now"> [Foom Justifies AI Risk Efforts Now](#table-of-contents)</h3>
 _Posted on 2017-08-03_
 
 Years ago I was honored to share this blog with Eliezer Yudkowsky. One of his main topics then was AI Risk; he was one of the few people talking about it back then. We <a href="https://intelligence.org/ai-foom-debate/">debated</a> this topic here, and while we disagreed I felt we made progress in understanding each other and exploring the issues. I assigned a much lower probability than he to his key “foom” scenario.
@@ -4838,7 +4838,7 @@ If AI Risk is priority now, why?  Foom: 1 AI takes over world, Value Drift: defa
 
 <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
 
-## [Is The City-ularity Near?](#table-of-contents)
+<h3 id="is-the-city-ularity-near"> [Is The City-ularity Near?](#table-of-contents)</h3>
 _Posted on 2010-02-09_
 
 The land around New York City is worth <em>a lot</em>.  A 2008 <a href="http://www.newyorkfed.org/research/current_issues/ci14-3/ci14-3.html">analysis</a> estimated prices for land, not counting buildings etc., for most (~80%?) of the nearby area (2750 square miles, = a 52 mile square).  The total New York area land value (total land times ave price) was 5.5T$ (trillion) in 2002 and 28T$ in 2006.
@@ -4857,7 +4857,7 @@ Well, no, it isn’t.  We don’t believe in a city-ularity because we don’t b
 
 For similar reasons, I’m skeptical of a blank-slate AI mind-design singularity.  Sure if there were a super mind theory that allowed vast mental efficiency gains all at once, but there isn’t.  Minds are vast complex structures full of parts that depend intricately on each other, much like the citizens of a city.  Minds, like cities, best improve gradually, because you just never know enough to manage a vast redesign of something with such complex inter-dependent adaptations.
 
-## [The Betterness Explosion](#table-of-contents)
+<h3 id="the-betterness-explosion"> [The Betterness Explosion](#table-of-contents)</h3>
 _Posted on 2011-06-21_
 
 We all want the things around us to be better. Yet today billions struggle year after year to make just a few things a bit better. But what if our meagre success was because we just didn’t have the right grand unified theory of betterness? What if someone someday discovered the basics of such a theory? Well then this person might use his basic betterness theory to make himself better in health, wealth, sexiness, organization, work ethic, etc. More important, that might help him make his betterness theory even better.
@@ -4876,7 +4876,7 @@ Now if you artificially hobble something so as to simultaneously reduce many of 
 
 All of which is to say that fearing that a new grand unified theory of intelligence will let one machine suddenly take over the world isn’t that different from fearing that a grand unified theory of betterness will let one better person suddenly take over the world. This isn’t to say that such an thing is impossible, but rather that we’d sure want some clearer indications that such a theory even exists before taking such a fear especially seriously.
 
-## [An Outside View of AI Control](#table-of-contents)
+<h3 id="an-outside-view-of-ai-control"> [An Outside View of AI Control](#table-of-contents)</h3>
 _Posted on 2017-10-01_
 
 I’ve written much on my skepticism of local AI foom (= intelligence explosion). Recently I [said](foom-justifies-ai-risk-efforts-now) that foom offers the main justification I understand for AI risk efforts now, as well as being the main choice of my Twitter followers in a survey. It was the main argument offered by [Eliezer Yudkowsky](debate-is-now-book) in our debates here at this blog, by [Nick Bostrom](30855) in his book <em>Superintelligence</em>, and by [Max Tegmark](tegmarks-book-of-foom) in his recent book <em>Life 3.0</em> (though he denied so in his [reply](tegmarks-book-of-foom) here).
@@ -4935,7 +4935,7 @@ Today most social systems suffer from agency costs, and larger costs (in % terms
 
 When I say that in my prototypical non-foom AI scenario, AI will still pay agency costs but the AI control problem seems mostly manageable, I mean that very competent future social and software systems will suffer from waste and parasites as do current systems, but that humans can still reliably use such systems to get what they want. Not only are humans not exterminated, they get more than before of what they want.
 
-## [AI Risk, Again](#table-of-contents)
+<h3 id="ai-risk-again"> [AI Risk, Again](#table-of-contents)</h3>
 _Posted on 2023-03-03_
 
 Large language models like ChatGPT have recently spooked a great many, and my Twitter feed is full of worriers saying how irresponsible orgs have been to make and release such models. Because, they say, such a system might have killed us all. And, as some researchers say that they are working on how to better control such things, worriers say we must regulate to slow/stop AI progress until such researchers achieve their goals. While I’ve written [on](https://www.lesswrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity) [this](https://www.overcomingbias.com/p/why-not-wait-on-ai-riskhtml) [many](https://www.overcomingbias.com/p/foom-updatehtml) [times](https://www.overcomingbias.com/p/how-lumpy-ai-serviceshtml) [before](https://www.overcomingbias.com/p/agency-failure-ai-apocalypsehtml), it seems time to restate my position.
@@ -4972,7 +4972,7 @@ As I discussed above, it just looks way too early to learn much about how to con
 
 **Added March 7**: Some say that, given enough data and hardware, predict-the-next-token models like ChatGPT will have human or better performance. Using action tokens, that would include many kinds of behavior. But this isn’t sufficient for such a system to rapidly “foom”. To even try, it needs high competence in design and testing alternative system architectures, and there’s no guarantee even with that.
 
-## [Foom Update](#table-of-contents)
+<h3 id="foom-update"> [Foom Update](#table-of-contents)</h3>
 _Posted on 2022-05-06_
 
 To extend our reach, we humans have built tools, machines, firms, and nations. And as these are powerful, we try to maintain control of them. But as efforts to control them usually depend on their details, we have usually waited to think about how to control them until we had concrete examples in front of us. In the year 1000, for example, there wasn’t much we could do to usefully think about how to control most things that have only appeared in the last two centuries, such as cars or international courts.
