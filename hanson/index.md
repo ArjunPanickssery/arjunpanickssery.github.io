@@ -7,6 +7,7 @@
 5. [We See the Sacred from Afar, to See It Together](#We-See-the-Sacred-from-Afar,-to-See-It-Together)
 6. [The Future Seems Shiny](#The-Future-Seems-Shiny)
 7. [Doubting My Far Mind](#Doubting-My-Far-Mind)
+
 ## Disagreement
 8. [Beware the Inside View](#Beware-the-Inside-View)
 9. [Are Meta Views Outside Views?](#Are-Meta-Views-Outside-Views?)
@@ -16,6 +17,7 @@
 13. [On Disagreement, Again](#On-Disagreement,-Again)
 14. [Rationality Requires Common Priors](#Rationality-Requires-Common-Priors)
 15. [Might Disagreement Fade Like Violence?](#Might-Disagreement-Fade-Like-Violence?)
+
 ## Biases
 16. [Reject Random Beliefs](#Reject-Random-Beliefs)
 17. [Chase Your Reading](#Chase-Your-Reading)
@@ -35,6 +37,7 @@
 28. [Homo Hypocritus](#Homo-Hypocritus)
 29. [Resolving Your Hypocrisy](#Resolving-Your-Hypocrisy)
 30. [Errors, Lies, and Self-Deception](#Errors,-Lies,-and-Self-Deception)
+
 ## Norms
 31. [Enforce Common Norms On Elites](#Enforce-Common-Norms-On-Elites)
 32. [Identity Norms](#Identity-Norms)
@@ -45,6 +48,7 @@
 37. [10 Implications of Automatic Norms](#10-Implications-of-Automatic-Norms)
 38. [Automatic Norm Lessons](#Automatic-Norm-Lessons)
 39. [Automatic Norms in Academia](#Automatic-Norms-in-Academia)
+
 ## Fiction
 40. [Plot Holes & Blame Holes](#Plot-Holes-&-Blame-Holes)
 41. [Fairy Tales Were Cynical](#Fairy-Tales-Were-Cynical)
@@ -53,6 +57,7 @@
 44. [Why We Fight Over Fiction](#Why-We-Fight-Over-Fiction)
 45. [Stories Are Like Religion](#Stories-Are-Like-Religion)
 46. [More Stories As Religion](#More-Stories-As-Religion)
+
 ## The Dreamtime
 47. [This is the Dream Time](#This-is-the-Dream-Time)
 48. [DreamTime](#DreamTime)
