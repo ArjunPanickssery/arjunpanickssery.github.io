@@ -74,18 +74,22 @@
 56. [New-Hire Prediction Markets](#New-Hire-Prediction-Markets)
 57. [Shoulda-Listened Futures](#Shoulda-Listened-Futures)
 58. [Brand Truth Narrowly](#Brand-Truth-Narrowly)
+
 ## Academia
 59. [Fixing Academia Via Prediction Markets](#Fixing-Academia-Via-Prediction-Markets)
 60. [Intellectual Prestige Futures](#Intellectual-Prestige-Futures)
 61. [Academic Stats Prediction Markets](#Academic-Stats-Prediction-Markets)
 62. [How To Fund Prestige Science](#How-To-Fund-Prestige-Science)
+
 ## Medicine
 63. [Medical Doubts OpEd](#Medical-Doubts-OpEd)
 64. [Medical Market Failures](#Medical-Market-Failures)
+
 ## Paternalism
 65. [Paternalism Is About Status](#Paternalism-Is-About-Status)
 66. [Rulesy Folks Push Paternalism](#Rulesy-Folks-Push-Paternalism)
 67. [Universal Basic Dorms](#Universal-Basic-Dorms)
+
 ## Law
 68. [Elites Must Rule](#Elites-Must-Rule)
 69. [Status App Concept](#Status-App-Concept)
@@ -114,10 +118,12 @@
 89. [School Is To Submit](#School-Is-To-Submit)
 90. [Why Grievances Grow](#Why-Grievances-Grow)
 91. [The World Forager Elite](#The-World-Forager-Elite)
+
 ## History as Exponential Modes
 92. [The Great Cycle Rule](#The-Great-Cycle-Rule)
 93. [The Labor-From-Factories Explosion](#The-Labor-From-Factories-Explosion)
 94. [Lost Advanced Civilizations](#Lost-Advanced-Civilizations)
+
 ## The Great Filter
 95. [Try-Try or Try-Once Great Filter?](#Try-Try-or-Try-Once-Great-Filter?)
 96. [Great Filter with Set-Backs, Dead-Ends](#Great-Filter-with-Set-Backs,-Dead-Ends)
@@ -134,6 +140,7 @@
 104. [Why We Can’t See Grabby Aliens](#Why-We-Can’t-See-Grabby-Aliens)
 105. [Beware General Visible Prey](#Beware-General-Visible-Prey)
 106. [If The Future Is Big](#If-The-Future-Is-Big)
+
 ## UFOs
 107. [UFOs – What The Hell?](#UFOs-–-What-The-Hell?)
 108. [Our Alien Stalkers](#Our-Alien-Stalkers)
@@ -144,12 +151,14 @@
 113. [Explaining Stylized UFO Facts](#Explaining-Stylized-UFO-Facts)
 114. [Non-UFO Local Alien Clues](#Non-UFO-Local-Alien-Clues)
 115. [UFOs and Status](#UFOs-and-Status)
+
 ## The Age of Em
 116. [Why Age of Em Will Happen](#Why-Age-of-Em-Will-Happen)
 117. [How To Not Die (Soon)](#How-To-Not-Die-(Soon))
 118. [How Does Brain Code Differ?](#How-Does-Brain-Code-Differ?)
 119. [Progeny Probabilities: Souls, Ems, Quantum](#Progeny-Probabilities:-Souls,-Ems,-Quantum)
 120. [Em Redistribution](#Em-Redistribution)
+
 ## Artificial Intelligence
 121. [A.I. Old-Timers](#A.I.-Old-Timers)
 122. [How Lumpy AI Services?](#How-Lumpy-AI-Services?)
@@ -161,6 +170,8 @@
 128. [An Outside View of AI Control](#An-Outside-View-of-AI-Control)
 129. [AI Risk, Again](#AI-Risk,-Again)
 130. [Foom Update](#Foom-Update)
+
+---
 
 ## [Abstract/Distant Future Bias](#table-of-contents)
 _Posted on 2008-11-26_
