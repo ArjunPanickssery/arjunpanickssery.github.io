@@ -68,7 +68,7 @@
 
 # Part 3: Our Institutions
 ## Prediction Markets
-53. [Prediction Markets “Fail” To Moloch](https://www.overcomingbias.com/p/prediction-markets-fail-to-molochhtml)
+53. [Prediction Markets “Fail” To Moloch](https://www.overcomingbias.com/p/prediction-markets-fail-to-moochhtml)
 54. [Seeking Robust Credible Expertise Buyers](https://www.overcomingbias.com/p/seeking-robust-credible-expertise-buyershtml)
 55. [Prediction Markets Need Trial and Error](https://www.overcomingbias.com/p/prediction-markets-need-experimentationhtml)
 56. [New-Hire Prediction Markets](https://www.overcomingbias.com/p/new-hire-prediction-marketshtml)
@@ -107,7 +107,7 @@
 81. [Privately Enforced & Punished Crime](https://www.overcomingbias.com/p/privately-enforced-punished-crimehtml)
 82. [Fine Grain Futarchy Zoning Via Harberger Taxes](https://www.overcomingbias.com/p/fine-grain-futarchy-zoning-via-harberger-taxeshtml)
 
-# Our 3: Our Past
+# Part 4: Our Past
 ## Farmers and Foragers
 83. [Fear Made Farmers](https://www.overcomingbias.com/p/fear-made-farmershtml)
 84. [Forage vs Farm Future](https://www.overcomingbias.com/p/forager-v-farmer-futurehtml)
@@ -132,7 +132,7 @@
 99. [At Least Two Filters](https://www.overcomingbias.com/p/at-least-two-filtershtml)
 100. [Fertility: The Big Problem](https://www.overcomingbias.com/p/fertility-the-big-problemhtml)
 
-# Part 4: Our Future
+# Part 5: Our Future
 ## Aliens
 101. [Humans Are Early](https://www.overcomingbias.com/p/humans-are-earlyhtml)
 102. [An Alien War Nightmare](https://www.overcomingbias.com/p/an-alien-war-nightmarehtml)
@@ -143,10 +143,10 @@
 
 ## UFOs
 107. [UFOs – What The Hell?](https://www.overcomingbias.com/p/ufos-what-the-hellhtml)
-108. [Our Alien Stalkers](https://www.overcomingbias.com/p/our-alien-stalkershtml)
+108. [Our Alien Stalkers](https://www.overcomingbias.com/p/our-alien-stalkers)
 109. [On UFOs-As-Aliens Priors](https://www.overcomingbias.com/p/on-ufo-as-aliens-priorshtml)
 110. [UFOs Show Govt. Competence As Either Surprisingly High Or Low](https://www.overcomingbias.com/p/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-lowhtml)
-111. [My Awkward Inference](https://www.overcomingbias.com/p/my-awkward-situationhtml)
+111. [My Awkward Inference](https://www.overcomingbias.com/p/my-awkward-situation)
 112. [UFO Stylized Social Facts](https://www.overcomingbias.com/p/social-ufo-stylized-factshtml)
 113. [Explaining Stylized UFO Facts](https://www.overcomingbias.com/p/explaining-stylized-ufo-factshtml)
 114. [Non-UFO Local Alien Clues](https://www.overcomingbias.com/p/non-ufo-local-alien-clueshtml)
@@ -168,4 +168,4 @@
 126. [Is The City-ularity Near?](https://www.overcomingbias.com/p/is-the-city-ularity-nearhtml)
 127. [The Betterness Explosion](https://www.overcomingbias.com/p/the-betterness-explosionhtml)
 128. [An Outside View of AI Control](https://www.overcomingbias.com/p/an-outside-view-of-ai-controlhtml)
-129. [AI Risk, Again](https://www.overcomingbias.com/p/ai-risk-againhtml)
+129. [AI Risk, Again](https://www.overcomingbias.com/p/ai-risk-again)
